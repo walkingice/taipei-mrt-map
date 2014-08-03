@@ -10,11 +10,11 @@
    xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="958.8313"
-   height="1091.1204"
+   width="1100"
+   height="1100"
    id="svg2"
    version="1.1"
-   inkscape:version="0.48.3.1 r9886"
+   inkscape:version="0.48.5 r10040"
    sodipodi:docname="taipei.svg"
    inkscape:export-filename="/home/walkingice/Desktop/Art/MRT/taipei.png"
    inkscape:export-xdpi="180"
@@ -30,16 +30,16 @@
      borderopacity="1.0"
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
-     inkscape:zoom="3.3828125"
-     inkscape:cx="545.57167"
-     inkscape:cy="515.81433"
+     inkscape:zoom="1.5170269"
+     inkscape:cx="78.957009"
+     inkscape:cy="59.290259"
      inkscape:document-units="px"
      inkscape:current-layer="layer3"
      showgrid="false"
-     inkscape:window-width="1920"
-     inkscape:window-height="1021"
+     inkscape:window-width="1918"
+     inkscape:window-height="1042"
      inkscape:window-x="0"
-     inkscape:window-y="27"
+     inkscape:window-y="36"
      inkscape:window-maximized="1"
      fit-margin-top="20"
      fit-margin-left="20"
@@ -93,81 +93,87 @@ You are able to remove license logo and author's name from the image if you keep
      inkscape:groupmode="layer"
      id="layer1"
      style="display:inline"
-     transform="translate(62.091414,-4.3696519)"
+     transform="translate(62.091414,4.5099868)"
      sodipodi:insensitive="true">
     <path
        style="fill:none;stroke:#ef2929;stroke-width:8;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
-       d="m 73.147172,49.11315 27.785738,27.78574 0,83.36144 144.27749,0 100.81103,104.81102 0,476.31156 36.06937,36.06937"
+       d="m 146.72446,24.029639 27.78573,27.78574 0,83.361441 144.2775,0 100.81103,104.81102 0,476.31156"
        id="path3004"
        inkscape:connector-curvature="0"
-       sodipodi:nodetypes="ccccccc" />
+       sodipodi:nodetypes="cccccc" />
     <path
        style="fill:none;stroke:#4e9a06;stroke-width:8;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
-       d="m 382,775.36218 53,53 0,231.67772"
+       d="m 420.46037,708.28014 39.04583,74.66889 59.94061,51.07329 0,231.67768"
        id="path3846"
        inkscape:connector-curvature="0"
-       sodipodi:nodetypes="ccc" />
+       sodipodi:nodetypes="cccc" />
     <path
        style="fill:none;stroke:#3465a4;stroke-width:8;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
-       d="m 861.24387,544.65951 c 0,0 -84.70051,61.83286 -88.94315,64.28235 -4.24265,2.44949 -538.01436,0 -538.01436,0 l -38.5695,27.25579 -47.69752,0 -123.435226,71.26536 0,211.96309"
+       d="m 980.34541,519.576 c 0,0 -84.70051,61.83286 -88.94315,64.28235 -4.24265,2.44949 -583.53861,0 -583.53861,0 l -38.5695,27.25579 -47.69752,0 -123.435232,71.26536 0,211.96309"
        id="path3908"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="csccccc" />
     <path
        style="fill:none;stroke:#ffc600;stroke-width:8;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
-       d="m 46.267027,349.56911 193.207193,139.55703 201.76041,0 0,264.28925 -171.52186,70.14571 0,130.81475"
+       d="m 119.84431,324.4856 193.2072,139.55703 201.76041,0 0,296.77686 -171.52186,70.14571 0,130.81475"
        id="path3960"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cccccc" />
     <path
        style="fill:none;stroke:#ffc600;stroke-width:8;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
-       d="M 241.31981,492.19061 -26.837169,620.98396"
+       d="M 314.8971,467.1071 -15.22319,628.20047"
        id="path3965"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cc" />
     <path
        style="fill:none;stroke:#c17d11;stroke-width:8;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
-       d="m 857,501.36218 0,-145 -67,-149 -340.02147,0 0,91.76924 61.02147,35.23076 0,50 -19,19 0,377 114,0 0,103.78828 167.57482,0"
+       d="m 977.87521,476.27867 0,-145 -67,-149 -340.02147,0 0,91.76924 61.02147,35.23076 0,50 -19,19 0,404.59186 114,0 0,103.78828 167.57482,0"
        id="path4011"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cccccccccccc" />
     <path
        style="fill:none;stroke:#bbe48e;stroke-width:8;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
-       d="m 239,615.36218 0,120.46447 101,0"
+       d="m 312.57729,590.27867 0,120.46447 101,0"
        id="path4059"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="ccc" />
     <path
        style="fill:none;stroke:#bbe48e;stroke-width:8;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
-       d="m 435,985.36218 c -8,0 -71,0 -71,0"
+       d="m 519.44681,991.02229 c -8,0 -71,0 -71,0"
        id="path4061"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cc" />
     <path
        style="fill:none;stroke:#ff9797;stroke-width:8;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
-       d="m 249,156.36218 0,-37 56,0"
+       d="m 322.57729,131.27867 0,-37.000001 56,0"
        id="path4063"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="ccc" />
     <path
        style="fill:none;stroke:#7ed238;stroke-width:8;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
-       d="m 765,918.36218 c 1.38397,5.16507 39.82884,68.98557 39.82884,68.98557 l -58.42164,58.42165"
+       d="m 911.88907,910.2285 c 1.38397,5.16507 39.82884,68.98556 39.82884,68.98556 l -58.42164,58.42174"
        id="path4065"
        inkscape:connector-curvature="0" />
+    <path
+       style="fill:#ef2929;fill-opacity:1;stroke:#ef2929;stroke-width:8;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       d="m 424.45585,709.46424 409.71824,0"
+       id="path4109"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc" />
   </g>
   <g
      inkscape:groupmode="layer"
      id="layer2"
      inkscape:label="nodes"
      style="display:inline"
-     transform="translate(62.091414,-4.3696519)"
+     transform="translate(62.091414,4.5099868)"
      sodipodi:insensitive="true">
     <use
        x="0"
        y="0"
        xlink:href="#use3842"
        id="use3850"
-       transform="translate(69,135)"
+       transform="translate(74.43476,165.32559)"
        width="744.09448"
        height="1052.3622" />
     <use
@@ -175,7 +181,7 @@ You are able to remove license logo and author's name from the image if you keep
        y="0"
        xlink:href="#use3850"
        id="use3852"
-       transform="translate(20.285209,22)"
+       transform="translate(25.719974,22.418059)"
        width="744.09448"
        height="1052.3622" />
     <use
@@ -183,7 +189,7 @@ You are able to remove license logo and author's name from the image if you keep
        y="0"
        xlink:href="#use3852"
        id="use3854"
-       transform="translate(4.591962e-7,38.842819)"
+       transform="translate(4.3770031e-7,38.842819)"
        width="744.09448"
        height="1052.3622" />
     <use
@@ -191,7 +197,7 @@ You are able to remove license logo and author's name from the image if you keep
        y="0"
        xlink:href="#use3854"
        id="use3856"
-       transform="translate(4.591962e-7,38.842819)"
+       transform="translate(4.3770031e-7,38.842819)"
        width="744.09448"
        height="1052.3622" />
     <use
@@ -199,7 +205,7 @@ You are able to remove license logo and author's name from the image if you keep
        y="0"
        xlink:href="#use3856"
        id="use3858"
-       transform="translate(4.591962e-7,38.84282)"
+       transform="translate(4.3770031e-7,38.84282)"
        width="744.09448"
        height="1052.3622" />
     <use
@@ -207,7 +213,7 @@ You are able to remove license logo and author's name from the image if you keep
        y="0"
        xlink:href="#use3848"
        id="use3860"
-       transform="translate(50.285213,206.72449)"
+       transform="translate(61.154734,206.72449)"
        width="744.09448"
        height="1052.3622" />
     <use
@@ -215,12 +221,12 @@ You are able to remove license logo and author's name from the image if you keep
        y="0"
        xlink:href="#use3858"
        id="use3862"
-       transform="translate(4.591962e-7,77.685657)"
+       transform="translate(4.3770031e-7,77.685661)"
        width="744.09448"
        height="1052.3622" />
     <path
-       transform="matrix(0.80258349,0,0,0.80258349,358.87075,971.77154)"
-       d="m 112.48753,111.5018 c 0,9.79146 -7.93755,17.72901 -17.729016,17.72901 -9.791463,0 -17.729013,-7.93755 -17.729013,-17.72901 0,-9.79146 7.93755,-17.729013 17.729013,-17.729013 9.791466,0 17.729016,7.937553 17.729016,17.729013 z"
+       transform="matrix(0.80258349,0,0,0.80258349,443.31756,977.43169)"
+       d="m 112.48753,111.5018 a 17.729013,17.729013 0 1 1 -35.458029,0 17.729013,17.729013 0 1 1 35.458029,0 z"
        sodipodi:ry="17.729013"
        sodipodi:rx="17.729013"
        sodipodi:cy="111.5018"
@@ -233,7 +239,7 @@ You are able to remove license logo and author's name from the image if you keep
        y="0"
        xlink:href="#use3844"
        id="use3848"
-       transform="translate(38,43)"
+       transform="translate(38,73.743649)"
        width="744.09448"
        height="1052.3622" />
     <use
@@ -249,7 +255,7 @@ You are able to remove license logo and author's name from the image if you keep
        y="0"
        xlink:href="#use3802"
        id="use3804"
-       transform="translate(26.785739,30.00843)"
+       transform="translate(26.785734,30.00843)"
        width="744.09448"
        height="1052.3622" />
     <use
@@ -257,7 +263,7 @@ You are able to remove license logo and author's name from the image if you keep
        y="0"
        xlink:href="#use3804"
        id="use3806"
-       transform="translate(27.785739,29.00843)"
+       transform="translate(27.785734,29.00843)"
        width="744.09448"
        height="1052.3622" />
     <use
@@ -273,7 +279,7 @@ You are able to remove license logo and author's name from the image if you keep
        y="0"
        xlink:href="#use3824"
        id="use3826"
-       transform="translate(0,41.646851)"
+       transform="translate(4.3770031e-7,41.646851)"
        width="744.09448"
        height="1052.3622" />
     <use
@@ -281,7 +287,7 @@ You are able to remove license logo and author's name from the image if you keep
        y="0"
        xlink:href="#use3826"
        id="use3828"
-       transform="translate(0,41.646789)"
+       transform="translate(4.3770031e-7,41.646789)"
        width="744.09448"
        height="1052.3622" />
     <use
@@ -289,7 +295,7 @@ You are able to remove license logo and author's name from the image if you keep
        y="0"
        xlink:href="#use3828"
        id="use3830"
-       transform="translate(0,41.646844)"
+       transform="translate(4.3770031e-7,41.646844)"
        width="744.09448"
        height="1052.3622" />
     <use
@@ -297,7 +303,7 @@ You are able to remove license logo and author's name from the image if you keep
        y="0"
        xlink:href="#use3830"
        id="use3832"
-       transform="translate(0,41.646796)"
+       transform="translate(4.3770031e-7,41.646796)"
        width="744.09448"
        height="1052.3622" />
     <use
@@ -305,7 +311,7 @@ You are able to remove license logo and author's name from the image if you keep
        y="0"
        xlink:href="#g3798"
        id="use3834"
-       transform="translate(96.828427,325.82913)"
+       transform="translate(96.828428,325.82913)"
        width="744.09448"
        height="1052.3622" />
     <use
@@ -313,7 +319,7 @@ You are able to remove license logo and author's name from the image if you keep
        y="0"
        xlink:href="#use3832"
        id="use3836"
-       transform="translate(0,83.293691)"
+       transform="translate(4.3770031e-7,83.293691)"
        width="744.09448"
        height="1052.3622" />
     <use
@@ -321,7 +327,7 @@ You are able to remove license logo and author's name from the image if you keep
        y="0"
        xlink:href="#use3836"
        id="use3838"
-       transform="translate(0,35.646752)"
+       transform="translate(4.3770031e-7,35.646752)"
        width="744.09448"
        height="1052.3622" />
     <use
@@ -329,7 +335,7 @@ You are able to remove license logo and author's name from the image if you keep
        y="0"
        xlink:href="#use3834"
        id="use3840"
-       transform="translate(-1,120.94042)"
+       transform="translate(-0.99999956,120.94042)"
        width="744.09448"
        height="1052.3622" />
     <use
@@ -337,7 +343,7 @@ You are able to remove license logo and author's name from the image if you keep
        y="0"
        xlink:href="#use3838"
        id="use3842"
-       transform="translate(0,106)"
+       transform="translate(4.3770031e-7,106)"
        width="744.09448"
        height="1052.3622" />
     <use
@@ -345,7 +351,7 @@ You are able to remove license logo and author's name from the image if you keep
        y="0"
        xlink:href="#use3840"
        id="use3844"
-       transform="translate(2,125)"
+       transform="translate(2.0000004,125)"
        width="744.09448"
        height="1052.3622" />
     <path
@@ -356,11 +362,11 @@ You are able to remove license logo and author's name from the image if you keep
        sodipodi:cy="111.5018"
        sodipodi:rx="17.729013"
        sodipodi:ry="17.729013"
-       d="m 112.48753,111.5018 c 0,9.79146 -7.93755,17.72901 -17.729016,17.72901 -9.791463,0 -17.729013,-7.93755 -17.729013,-17.72901 0,-9.79146 7.93755,-17.729013 17.729013,-17.729013 9.791466,0 17.729016,7.937553 17.729016,17.729013 z"
-       transform="matrix(0.80258349,0,0,0.80258349,-5.129248,-43.491918)" />
+       d="m 112.48753,111.5018 a 17.729013,17.729013 0 1 1 -35.458029,0 17.729013,17.729013 0 1 1 35.458029,0 z"
+       transform="matrix(0.80258349,0,0,0.80258349,68.448035,-68.575429)" />
     <path
-       transform="matrix(0.83441578,0,0,0.83441578,84.9674,-198.73879)"
-       d="m 26.899193,329.75208 c 0,4.72691 -3.831921,8.55883 -8.558834,8.55883 -4.726914,0 -8.5588343,-3.83192 -8.5588343,-8.55883 0,-4.72692 3.8319203,-8.55884 8.5588343,-8.55884 4.726913,0 8.558834,3.83192 8.558834,8.55884 z"
+       transform="matrix(0.83441578,0,0,0.83441578,158.54468,-223.8223)"
+       d="m 26.899193,329.75208 a 8.5588341,8.5588341 0 1 1 -17.1176683,0 8.5588341,8.5588341 0 1 1 17.1176683,0 z"
        sodipodi:ry="8.5588341"
        sodipodi:rx="8.5588341"
        sodipodi:cy="329.75208"
@@ -373,7 +379,7 @@ You are able to remove license logo and author's name from the image if you keep
        y="0"
        xlink:href="#use3784"
        id="use3788"
-       transform="translate(2.7380664e-8,82.903407)"
+       transform="translate(4.3770025e-7,82.903407)"
        width="744.09448"
        height="1052.3622" />
     <use
@@ -381,7 +387,7 @@ You are able to remove license logo and author's name from the image if you keep
        y="0"
        xlink:href="#use3788"
        id="use3790"
-       transform="translate(52.901584,0)"
+       transform="translate(52.901584,-2.7321353e-7)"
        width="744.09448"
        height="1052.3622" />
     <use
@@ -389,15 +395,15 @@ You are able to remove license logo and author's name from the image if you keep
        y="0"
        xlink:href="#use3790"
        id="use3792"
-       transform="translate(53.962237,0)"
+       transform="translate(53.962234,-2.7321353e-7)"
        width="744.09448"
        height="1052.3622" />
     <g
        id="g3798"
-       transform="matrix(0.86808574,0,0,0.86808574,-4.0832016,23.084236)">
+       transform="matrix(0.86808574,0,0,0.86808574,69.494082,-1.9992747)">
       <path
          transform="translate(-1.5130064,-2.7356926)"
-         d="m 311.78609,162.85481 c 0,10.46674 -8.48497,18.95171 -18.95171,18.95171 -10.46674,0 -18.9517,-8.48497 -18.9517,-18.95171 0,-10.46673 8.48496,-18.9517 18.9517,-18.9517 10.46674,0 18.95171,8.48497 18.95171,18.9517 z"
+         d="m 311.78609,162.85481 a 18.951704,18.951704 0 1 1 -37.90341,0 18.951704,18.951704 0 1 1 37.90341,0 z"
          sodipodi:ry="18.951704"
          sodipodi:rx="18.951704"
          sodipodi:cy="162.85481"
@@ -414,14 +420,14 @@ You are able to remove license logo and author's name from the image if you keep
          sodipodi:cy="162.85481"
          sodipodi:rx="18.951704"
          sodipodi:ry="18.951704"
-         d="m 311.78609,162.85481 c 0,10.46674 -8.48497,18.95171 -18.95171,18.95171 -10.46674,0 -18.9517,-8.48497 -18.9517,-18.95171 0,-10.46673 8.48496,-18.9517 18.9517,-18.9517 10.46674,0 18.95171,8.48497 18.95171,18.9517 z" />
+         d="m 311.78609,162.85481 a 18.951704,18.951704 0 1 1 -37.90341,0 18.951704,18.951704 0 1 1 37.90341,0 z" />
     </g>
     <use
        x="0"
        y="0"
        xlink:href="#use3784"
        id="use3818"
-       transform="translate(2.7380664e-8,38)"
+       transform="translate(4.3770025e-7,38)"
        width="744.09448"
        height="1052.3622" />
     <path
@@ -432,14 +438,14 @@ You are able to remove license logo and author's name from the image if you keep
        sodipodi:cy="111.5018"
        sodipodi:rx="17.729013"
        sodipodi:ry="17.729013"
-       d="m 112.48753,111.5018 c 0,9.79146 -7.93755,17.72901 -17.729016,17.72901 -9.791463,0 -17.729013,-7.93755 -17.729013,-17.72901 0,-9.79146 7.93755,-17.729013 17.729013,-17.729013 9.791466,0 17.729016,7.937553 17.729016,17.729013 z"
-       transform="matrix(0.80258349,0,0,0.80258349,-51.914024,831.54867)" />
+       d="m 112.48753,111.5018 a 17.729013,17.729013 0 1 1 -35.458029,0 17.729013,17.729013 0 1 1 35.458029,0 z"
+       transform="matrix(0.80258349,0,0,0.80258349,21.66326,806.46516)" />
     <use
        x="0"
        y="0"
        xlink:href="#use3840"
        id="use3912"
-       transform="translate(-105.66043,0)"
+       transform="translate(-105.66043,-2.7321353e-7)"
        width="744.09448"
        height="1052.3622" />
     <use
@@ -455,7 +461,7 @@ You are able to remove license logo and author's name from the image if you keep
        y="0"
        xlink:href="#use3914"
        id="use3916"
-       transform="translate(-51.169033,0.5)"
+       transform="translate(-51.169033,0.49999973)"
        width="744.09448"
        height="1052.3622" />
     <use
@@ -487,7 +493,7 @@ You are able to remove license logo and author's name from the image if you keep
        y="0"
        xlink:href="#use3922"
        id="use3924"
-       transform="translate(0,52.849492)"
+       transform="translate(4.3770031e-7,52.849492)"
        width="744.09448"
        height="1052.3622" />
     <use
@@ -495,7 +501,7 @@ You are able to remove license logo and author's name from the image if you keep
        y="0"
        xlink:href="#use3924"
        id="use3926"
-       transform="translate(0,52.849511)"
+       transform="translate(4.3770031e-7,52.849511)"
        width="744.09448"
        height="1052.3622" />
     <use
@@ -503,7 +509,7 @@ You are able to remove license logo and author's name from the image if you keep
        y="0"
        xlink:href="#use3926"
        id="use3928"
-       transform="translate(0,52.849507)"
+       transform="translate(4.3770031e-7,52.849507)"
        width="744.09448"
        height="1052.3622" />
     <use
@@ -511,7 +517,7 @@ You are able to remove license logo and author's name from the image if you keep
        y="0"
        xlink:href="#use3838"
        id="use3930"
-       transform="translate(47.473411,44.183766)"
+       transform="translate(47.473414,44.183766)"
        width="744.09448"
        height="1052.3622" />
     <use
@@ -519,7 +525,7 @@ You are able to remove license logo and author's name from the image if you keep
        y="0"
        xlink:href="#use3840"
        id="use3932"
-       transform="translate(96.459419,0)"
+       transform="translate(96.459414,-2.7321353e-7)"
        width="744.09448"
        height="1052.3622" />
     <use
@@ -527,7 +533,7 @@ You are able to remove license logo and author's name from the image if you keep
        y="0"
        xlink:href="#use3932"
        id="use3934"
-       transform="translate(50.434295,0)"
+       transform="translate(98.914664,-2.7321353e-7)"
        width="744.09448"
        height="1052.3622" />
     <use
@@ -535,7 +541,7 @@ You are able to remove license logo and author's name from the image if you keep
        y="0"
        xlink:href="#use3930"
        id="use3936"
-       transform="translate(145.4203,0)"
+       transform="translate(193.90067,-2.7321353e-7)"
        width="744.09448"
        height="1052.3622" />
     <use
@@ -543,7 +549,7 @@ You are able to remove license logo and author's name from the image if you keep
        y="0"
        xlink:href="#use3936"
        id="use3938"
-       transform="translate(48.47339,0)"
+       transform="translate(48.473394,-2.7321353e-7)"
        width="744.09448"
        height="1052.3622" />
     <use
@@ -551,7 +557,7 @@ You are able to remove license logo and author's name from the image if you keep
        y="0"
        xlink:href="#use3938"
        id="use3940"
-       transform="translate(48.473471,0)"
+       transform="translate(48.473474,-2.7321353e-7)"
        width="744.09448"
        height="1052.3622" />
     <use
@@ -559,7 +565,7 @@ You are able to remove license logo and author's name from the image if you keep
        y="0"
        xlink:href="#use3940"
        id="use3942"
-       transform="translate(48.473422,0)"
+       transform="translate(48.473424,-2.7321353e-7)"
        width="744.09448"
        height="1052.3622" />
     <use
@@ -567,7 +573,7 @@ You are able to remove license logo and author's name from the image if you keep
        y="0"
        xlink:href="#use3942"
        id="use3944"
-       transform="translate(48.473419,0)"
+       transform="translate(48.473414,-2.7321353e-7)"
        width="744.09448"
        height="1052.3622" />
     <use
@@ -575,7 +581,7 @@ You are able to remove license logo and author's name from the image if you keep
        y="0"
        xlink:href="#use3944"
        id="use3946"
-       transform="translate(61.462784,-14.627418)"
+       transform="translate(57.296624,-14.627418)"
        width="744.09448"
        height="1052.3622" />
     <use
@@ -583,7 +589,7 @@ You are able to remove license logo and author's name from the image if you keep
        y="0"
        xlink:href="#use3946"
        id="use3948"
-       transform="translate(29.46282,-21.17767)"
+       transform="translate(29.462824,-21.17767)"
        width="744.09448"
        height="1052.3622" />
     <use
@@ -591,12 +597,12 @@ You are able to remove license logo and author's name from the image if you keep
        y="0"
        xlink:href="#path3910"
        id="use3950"
-       transform="translate(833.39328,-375.02396)"
+       transform="translate(877.70748,-375.02396)"
        width="744.09448"
        height="1052.3622" />
     <path
-       transform="matrix(0.80258349,0,0,0.80258349,-36.129248,255.66955)"
-       d="m 112.48753,111.5018 c 0,9.79146 -7.93755,17.72901 -17.729016,17.72901 -9.791463,0 -17.729013,-7.93755 -17.729013,-17.72901 0,-9.79146 7.93755,-17.729013 17.729013,-17.729013 9.791466,0 17.729016,7.937553 17.729016,17.729013 z"
+       transform="matrix(0.80258349,0,0,0.80258349,37.448036,230.58604)"
+       d="m 112.48753,111.5018 a 17.729013,17.729013 0 1 1 -35.458029,0 17.729013,17.729013 0 1 1 35.458029,0 z"
        sodipodi:ry="17.729013"
        sodipodi:rx="17.729013"
        sodipodi:cy="111.5018"
@@ -605,8 +611,8 @@ You are able to remove license logo and author's name from the image if you keep
        style="fill:#ffc600;fill-opacity:1;stroke:none"
        sodipodi:type="arc" />
     <path
-       transform="matrix(0.80258349,0,0,0.80258349,-103.91402,530.88005)"
-       d="m 112.48753,111.5018 c 0,9.79146 -7.93755,17.72901 -17.729016,17.72901 -9.791463,0 -17.729013,-7.93755 -17.729013,-17.72901 0,-9.79146 7.93755,-17.729013 17.729013,-17.729013 9.791466,0 17.729016,7.937553 17.729016,17.729013 z"
+       transform="matrix(0.80258349,0,0,0.80258349,-90.322484,538.09656)"
+       d="m 112.48753,111.5018 a 17.729013,17.729013 0 1 1 -35.458029,0 17.729013,17.729013 0 1 1 35.458029,0 z"
        sodipodi:ry="17.729013"
        sodipodi:rx="17.729013"
        sodipodi:cy="111.5018"
@@ -627,7 +633,7 @@ You are able to remove license logo and author's name from the image if you keep
        y="0"
        xlink:href="#use3834"
        id="use3969"
-       transform="translate(-102.53048,0.82983398)"
+       transform="translate(-102.53048,0.82983373)"
        width="744.09448"
        height="1052.3622" />
     <use
@@ -635,7 +641,7 @@ You are able to remove license logo and author's name from the image if you keep
        y="0"
        xlink:href="#use3967"
        id="use3971"
-       transform="translate(39.828059,28.143194)"
+       transform="translate(39.828054,28.143194)"
        width="744.09448"
        height="1052.3622" />
     <use
@@ -643,7 +649,7 @@ You are able to remove license logo and author's name from the image if you keep
        y="0"
        xlink:href="#use3971"
        id="use3973"
-       transform="translate(39.828046,30.885812)"
+       transform="translate(39.828044,30.885812)"
        width="744.09448"
        height="1052.3622" />
     <use
@@ -651,7 +657,7 @@ You are able to remove license logo and author's name from the image if you keep
        y="0"
        xlink:href="#use3973"
        id="use3975"
-       transform="translate(39.828065,27.736325)"
+       transform="translate(39.828064,27.736325)"
        width="744.09448"
        height="1052.3622" />
     <use
@@ -659,7 +665,7 @@ You are able to remove license logo and author's name from the image if you keep
        y="0"
        xlink:href="#use3975"
        id="use3977"
-       transform="translate(1.2928929,50.997474)"
+       transform="translate(1.2928924,50.997474)"
        width="744.09448"
        height="1052.3622" />
     <use
@@ -707,7 +713,7 @@ You are able to remove license logo and author's name from the image if you keep
        y="0"
        xlink:href="#use3832"
        id="use3989"
-       transform="translate(59.154329,42.476659)"
+       transform="translate(59.154324,42.476659)"
        width="744.09448"
        height="1052.3622" />
     <use
@@ -715,7 +721,7 @@ You are able to remove license logo and author's name from the image if you keep
        y="0"
        xlink:href="#use3989"
        id="use3991"
-       transform="translate(36.305087,31.384776)"
+       transform="translate(36.305084,31.384776)"
        width="744.09448"
        height="1052.3622" />
     <use
@@ -723,25 +729,19 @@ You are able to remove license logo and author's name from the image if you keep
        y="0"
        xlink:href="#use3991"
        id="use3993"
-       transform="translate(0,41.362939)"
+       transform="translate(4.3770031e-7,41.362939)"
        width="744.09448"
        height="1052.3622" />
-    <use
-       x="0"
-       y="0"
-       xlink:href="#use3993"
-       id="use3995"
-       transform="translate(0,113.13709)"
-       width="744.09448"
-       height="1052.3622" />
-    <use
-       x="0"
-       y="0"
-       xlink:href="#use3995"
+    <path
+       sodipodi:type="arc"
+       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
        id="use3997"
-       transform="translate(-119.50105,129.3235)"
-       width="744.09448"
-       height="1052.3622" />
+       sodipodi:cx="18.340359"
+       sodipodi:cy="329.75208"
+       sodipodi:rx="8.5588341"
+       sodipodi:ry="8.5588341"
+       d="m 26.899193,329.75208 a 8.5588341,8.5588341 0 1 1 -17.1176683,0 8.5588341,8.5588341 0 1 1 17.1176683,0 z"
+       transform="matrix(0.83441578,0,0,0.83441578,379.86933,534.45843)" />
     <use
        x="0"
        y="0"
@@ -755,7 +755,7 @@ You are able to remove license logo and author's name from the image if you keep
        y="0"
        xlink:href="#use3999"
        id="use4001"
-       transform="translate(4.0803759e-8,55.856844)"
+       transform="translate(4.3770031e-7,55.856844)"
        width="744.09448"
        height="1052.3622" />
     <use
@@ -763,7 +763,7 @@ You are able to remove license logo and author's name from the image if you keep
        y="0"
        xlink:href="#path3958"
        id="use4003"
-       transform="translate(297.39906,335.23968)"
+       transform="translate(357.38481,333.68331)"
        width="744.09448"
        height="1052.3622" />
     <path
@@ -774,14 +774,14 @@ You are able to remove license logo and author's name from the image if you keep
        sodipodi:cy="111.5018"
        sodipodi:rx="17.729013"
        sodipodi:ry="17.729013"
-       d="m 112.48753,111.5018 c 0,9.79146 -7.93755,17.72901 -17.729016,17.72901 -9.791463,0 -17.729013,-7.93755 -17.729013,-17.72901 0,-9.79146 7.93755,-17.729013 17.729013,-17.729013 9.791466,0 17.729016,7.937553 17.729016,17.729013 z"
-       transform="matrix(0.80258349,0,0,0.80258349,699.59571,793.89837)" />
+       d="m 112.48753,111.5018 a 17.729013,17.729013 0 1 1 -35.458029,0 17.729013,17.729013 0 1 1 35.458029,0 z"
+       transform="matrix(0.80258349,0,0,0.80258349,822.83582,796.40672)" />
     <use
        x="0"
        y="0"
        xlink:href="#path4005"
        id="use4007"
-       transform="translate(81.883542,-395.97163)"
+       transform="translate(76.534924,-423.56349)"
        width="744.09448"
        height="1052.3622" />
     <use
@@ -789,7 +789,7 @@ You are able to remove license logo and author's name from the image if you keep
        y="0"
        xlink:href="#use3936"
        id="use4013"
-       transform="translate(-47,94)"
+       transform="translate(-96.662818,123.99878)"
        width="744.09448"
        height="1052.3622" />
     <use
@@ -797,7 +797,7 @@ You are able to remove license logo and author's name from the image if you keep
        y="0"
        xlink:href="#use4013"
        id="use4015"
-       transform="translate(0,51)"
+       transform="translate(50.845264,48.593087)"
        width="744.09448"
        height="1052.3622" />
     <use
@@ -805,7 +805,7 @@ You are able to remove license logo and author's name from the image if you keep
        y="0"
        xlink:href="#use4015"
        id="use4017"
-       transform="translate(66,26)"
+       transform="translate(66.000004,26)"
        width="744.09448"
        height="1052.3622" />
     <use
@@ -813,7 +813,7 @@ You are able to remove license logo and author's name from the image if you keep
        y="0"
        xlink:href="#use4017"
        id="use4019"
-       transform="translate(47.5,25)"
+       transform="translate(47.500004,25)"
        width="744.09448"
        height="1052.3622" />
     <use
@@ -821,7 +821,7 @@ You are able to remove license logo and author's name from the image if you keep
        y="0"
        xlink:href="#use4019"
        id="use4021"
-       transform="translate(0,36)"
+       transform="translate(4.3770031e-7,36)"
        width="744.09448"
        height="1052.3622" />
     <use
@@ -829,7 +829,7 @@ You are able to remove license logo and author's name from the image if you keep
        y="0"
        xlink:href="#use4021"
        id="use4023"
-       transform="translate(0,43)"
+       transform="translate(4.3770031e-7,43)"
        width="744.09448"
        height="1052.3622" />
     <use
@@ -837,7 +837,7 @@ You are able to remove license logo and author's name from the image if you keep
        y="0"
        xlink:href="#use4023"
        id="use4025"
-       transform="translate(56.538818,-1)"
+       transform="translate(56.538824,-1.0000003)"
        width="744.09448"
        height="1052.3622" />
     <use
@@ -845,7 +845,7 @@ You are able to remove license logo and author's name from the image if you keep
        y="0"
        xlink:href="#use4025"
        id="use4027"
-       transform="translate(57.038819,0)"
+       transform="translate(57.038824,-2.7321353e-7)"
        width="744.09448"
        height="1052.3622" />
     <use
@@ -853,7 +853,7 @@ You are able to remove license logo and author's name from the image if you keep
        y="0"
        xlink:href="#use4013"
        id="use4029"
-       transform="translate(0,-177)"
+       transform="translate(49.662814,-206.99878)"
        width="744.09448"
        height="1052.3622" />
     <use
@@ -861,7 +861,7 @@ You are able to remove license logo and author's name from the image if you keep
        y="0"
        xlink:href="#use4029"
        id="use4031"
-       transform="translate(0,-73)"
+       transform="translate(-5.6229969e-7,-73)"
        width="744.09448"
        height="1052.3622" />
     <use
@@ -869,7 +869,7 @@ You are able to remove license logo and author's name from the image if you keep
        y="0"
        xlink:href="#use4031"
        id="use4033"
-       transform="translate(19,-94)"
+       transform="translate(16.635104,-93.999999)"
        width="744.09448"
        height="1052.3622" />
     <use
@@ -877,7 +877,7 @@ You are able to remove license logo and author's name from the image if you keep
        y="0"
        xlink:href="#use4033"
        id="use4035"
-       transform="translate(-62,-91)"
+       transform="translate(-62,-90.999999)"
        width="744.09448"
        height="1052.3622" />
     <use
@@ -893,7 +893,7 @@ You are able to remove license logo and author's name from the image if you keep
        y="0"
        xlink:href="#use4037"
        id="use4039"
-       transform="translate(71.25,0)"
+       transform="translate(71.249994,-2.7321353e-7)"
        width="744.09448"
        height="1052.3622" />
     <use
@@ -901,7 +901,7 @@ You are able to remove license logo and author's name from the image if you keep
        y="0"
        xlink:href="#use4039"
        id="use4041"
-       transform="translate(71.25,-1)"
+       transform="translate(71.249994,-1.0000003)"
        width="744.09448"
        height="1052.3622" />
     <use
@@ -909,7 +909,7 @@ You are able to remove license logo and author's name from the image if you keep
        y="0"
        xlink:href="#use4041"
        id="use4043"
-       transform="translate(71.25,1)"
+       transform="translate(71.249994,0.99999973)"
        width="744.09448"
        height="1052.3622" />
     <use
@@ -917,7 +917,7 @@ You are able to remove license logo and author's name from the image if you keep
        y="0"
        xlink:href="#use4043"
        id="use4045"
-       transform="translate(71.25,0)"
+       transform="translate(71.249994,-2.7321353e-7)"
        width="744.09448"
        height="1052.3622" />
     <use
@@ -925,7 +925,7 @@ You are able to remove license logo and author's name from the image if you keep
        y="0"
        xlink:href="#use4045"
        id="use4047"
-       transform="translate(60,45)"
+       transform="translate(59.999994,45)"
        width="744.09448"
        height="1052.3622" />
     <use
@@ -941,7 +941,7 @@ You are able to remove license logo and author's name from the image if you keep
        y="0"
        xlink:href="#use4049"
        id="use4051"
-       transform="translate(26,59)"
+       transform="translate(26.000004,59)"
        width="744.09448"
        height="1052.3622" />
     <use
@@ -949,12 +949,12 @@ You are able to remove license logo and author's name from the image if you keep
        y="0"
        xlink:href="#use4051"
        id="use4053"
-       transform="translate(0,64.014221)"
+       transform="translate(-1.8012706,64.014221)"
        width="744.09448"
        height="1052.3622" />
     <path
-       transform="matrix(0.80258349,0,0,0.80258349,232.95401,28.449207)"
-       d="m 112.48753,111.5018 c 0,9.79146 -7.93755,17.72901 -17.729016,17.72901 -9.791463,0 -17.729013,-7.93755 -17.729013,-17.72901 0,-9.79146 7.93755,-17.729013 17.729013,-17.729013 9.791466,0 17.729016,7.937553 17.729016,17.729013 z"
+       transform="matrix(0.80258349,0,0,0.80258349,306.5313,3.3656963)"
+       d="m 112.48753,111.5018 a 17.729013,17.729013 0 1 1 -35.458029,0 17.729013,17.729013 0 1 1 35.458029,0 z"
        sodipodi:ry="17.729013"
        sodipodi:rx="17.729013"
        sodipodi:cy="111.5018"
@@ -970,8 +970,8 @@ You are able to remove license logo and author's name from the image if you keep
        sodipodi:cy="111.5018"
        sodipodi:rx="17.729013"
        sodipodi:ry="17.729013"
-       d="m 112.48753,111.5018 c 0,9.79146 -7.93755,17.72901 -17.729016,17.72901 -9.791463,0 -17.729013,-7.93755 -17.729013,-17.72901 0,-9.79146 7.93755,-17.729013 17.729013,-17.729013 9.791466,0 17.729016,7.937553 17.729016,17.729013 z"
-       transform="matrix(0.80258349,0,0,0.80258349,289.47378,893.31822)" />
+       d="m 112.48753,111.5018 a 17.729013,17.729013 0 1 1 -35.458029,0 17.729013,17.729013 0 1 1 35.458029,0 z"
+       transform="matrix(0.80258349,0,0,0.80258349,373.92059,898.97836)" />
     <use
        x="0"
        y="0"
@@ -985,7 +985,7 @@ You are able to remove license logo and author's name from the image if you keep
        y="0"
        xlink:href="#use4027"
        id="use4069"
-       transform="translate(48,38)"
+       transform="translate(71.648964,27.357968)"
        width="744.09448"
        height="1052.3622" />
     <use
@@ -993,7 +993,7 @@ You are able to remove license logo and author's name from the image if you keep
        y="0"
        xlink:href="#use4069"
        id="use4071"
-       transform="translate(23,39)"
+       transform="translate(23.000004,39)"
        width="744.09448"
        height="1052.3622" />
     <use
@@ -1001,7 +1001,7 @@ You are able to remove license logo and author's name from the image if you keep
        y="0"
        xlink:href="#use4071"
        id="use4073"
-       transform="translate(-8,50)"
+       transform="translate(-8.0000006,50)"
        width="744.09448"
        height="1052.3622" />
     <use
@@ -1014,1148 +1014,1207 @@ You are able to remove license logo and author's name from the image if you keep
        height="1052.3622" />
     <path
        style="font-size:medium;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#babdb6;fill-opacity:1;stroke:none;stroke-width:3;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Sans;-inkscape-font-specification:Sans"
-       d="m 852.75,462.9375 c -8.19172,0 -14.84375,6.65203 -14.84375,14.84375 l 0,73.84375 c 0,8.19172 6.65203,14.8125 14.84375,14.8125 l 9.14613,0 c 8.19172,0 14.84375,-6.62078 14.84375,-14.8125 l 0,-73.84375 c 0,-8.19172 -6.65203,-14.84375 -14.84375,-14.84375 z m 0,3 9.14613,0 c 6.58161,0 11.84375,5.26214 11.84375,11.84375 l 0,73.84375 c 0,6.58161 -5.26214,11.8125 -11.84375,11.8125 l -9.14613,0 c -6.58161,0 -11.84375,-5.23089 -11.84375,-11.8125 l 0,-73.84375 c 0,-6.58161 5.26214,-11.84375 11.84375,-11.84375 z"
+       d="m 970.64149,437.85399 c -8.19172,0 -14.84375,6.65203 -14.84375,14.84375 l 0,73.84375 c 0,8.19172 6.65203,14.8125 14.84375,14.8125 l 9.14613,0 c 8.19172,0 14.84375,-6.62078 14.84375,-14.8125 l 0,-73.84375 c 0,-8.19172 -6.65203,-14.84375 -14.84375,-14.84375 z m 0,3 9.14613,0 c 6.58161,0 11.84375,5.26214 11.84375,11.84375 l 0,73.84375 c 0,6.58161 -5.26214,11.8125 -11.84375,11.8125 l -9.14613,0 c -6.58161,0 -11.84375,-5.23089 -11.84375,-11.8125 l 0,-73.84375 c 0,-6.58161 5.26214,-11.84375 11.84375,-11.84375 z"
        id="rect4489"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="ssssssssssssssssss" />
+    <use
+       height="1052.3622"
+       width="744.09448"
+       transform="translate(95.053114,-0.45496527)"
+       id="use4113"
+       xlink:href="#use3844"
+       y="0"
+       x="0" />
+    <use
+       x="0"
+       y="0"
+       xlink:href="#use3844"
+       id="use4115"
+       transform="translate(191.42263,-0.45496527)"
+       width="744.09448"
+       height="1052.3622" />
+    <use
+       height="1052.3622"
+       width="744.09448"
+       transform="translate(31.632794,123.99878)"
+       id="use4124"
+       xlink:href="#use3936"
+       y="0"
+       x="0" />
+    <use
+       x="0"
+       y="0"
+       xlink:href="#use3936"
+       id="use4126"
+       transform="translate(99.032334,123.99878)"
+       width="744.09448"
+       height="1052.3622" />
+    <path
+       transform="matrix(0.80258349,0,0,0.80258349,759.57485,617.85706)"
+       d="m 112.48753,111.5018 a 17.729013,17.729013 0 1 1 -35.458029,0 17.729013,17.729013 0 1 1 35.458029,0 z"
+       sodipodi:ry="17.729013"
+       sodipodi:rx="17.729013"
+       sodipodi:cy="111.5018"
+       sodipodi:cx="94.758514"
+       id="path4128"
+       style="fill:#ef2929;fill-opacity:1;stroke:none"
+       sodipodi:type="arc" />
+    <use
+       height="1052.3622"
+       width="744.09448"
+       transform="translate(-70.364999,35.291627)"
+       id="use4203"
+       xlink:href="#use3985"
+       y="0"
+       x="0" />
+    <use
+       x="0"
+       y="0"
+       xlink:href="#use3985"
+       id="use4205"
+       transform="translate(-100.68747,51.112045)"
+       width="744.09448"
+       height="1052.3622" />
   </g>
   <g
      inkscape:groupmode="layer"
      id="layer3"
      inkscape:label="chinese"
      style="display:inline"
-     transform="translate(62.091414,-4.3696519)">
+     transform="translate(62.091414,4.5099868)"
+     sodipodi:insensitive="true">
     <text
        sodipodi:linespacing="125%"
        id="text3812"
-       y="79.968613"
-       x="130.98245"
-       style="font-size:13.34046555px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:'儷黑 Pro';-inkscape-font-specification:'儷黑 Pro'"
+       y="54.885101"
+       x="204.55974"
+       style="font-size:13.34046555px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Noto Sans T Chinese;-inkscape-font-specification:Noto Sans T Chinese"
        xml:space="preserve"><tspan
-         y="79.968613"
-         x="130.98245"
+         y="54.885101"
+         x="204.55974"
          id="tspan3814"
          sodipodi:role="line">紅樹林</tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:13.34046555px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:'儷黑 Pro';-inkscape-font-specification:'儷黑 Pro'"
-       x="39.899681"
-       y="46.635883"
+       style="font-size:13.34046555px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Noto Sans T Chinese;-inkscape-font-specification:Noto Sans T Chinese"
+       x="113.47697"
+       y="21.552372"
        id="text3820"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          id="tspan3822"
-         x="39.899681"
-         y="46.635883">淡水</tspan></text>
+         x="113.47697"
+         y="21.552372">淡水</tspan></text>
     <text
        sodipodi:linespacing="125%"
        id="text4077"
-       y="118.05367"
-       x="124.25887"
-       style="font-size:13.34046555px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:'儷黑 Pro';-inkscape-font-specification:'儷黑 Pro'"
+       y="92.970161"
+       x="197.83617"
+       style="font-size:13.34046555px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Noto Sans T Chinese;-inkscape-font-specification:Noto Sans T Chinese"
        xml:space="preserve"><tspan
-         y="118.05367"
-         x="124.25887"
+         y="92.970161"
+         x="197.83617"
          id="tspan4079"
          sodipodi:role="line">竹圍</tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:13.34046555px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:'儷黑 Pro';-inkscape-font-specification:'儷黑 Pro'"
-       x="96.581635"
-       y="181.99347"
+       style="font-size:13.34046555px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Noto Sans T Chinese;-inkscape-font-specification:Noto Sans T Chinese"
+       x="170.15892"
+       y="156.90996"
        id="text4081"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          id="tspan4083"
-         x="96.581635"
-         y="181.99347">關渡</tspan></text>
+         x="170.15892"
+         y="156.90996">關渡</tspan></text>
     <text
        sodipodi:linespacing="125%"
        id="text4085"
-       y="182.15355"
-       x="152.29631"
-       style="font-size:13.34046555px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:'儷黑 Pro';-inkscape-font-specification:'儷黑 Pro'"
+       y="157.07004"
+       x="225.8736"
+       style="font-size:13.34046555px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Noto Sans T Chinese;-inkscape-font-specification:Noto Sans T Chinese"
        xml:space="preserve"><tspan
-         y="182.15355"
-         x="152.29631"
+         y="157.07004"
+         x="225.8736"
          id="tspan4087"
          sodipodi:role="line">忠義</tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:13.34046555px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:'儷黑 Pro';-inkscape-font-specification:'儷黑 Pro'"
-       x="208.99101"
-       y="182.04683"
+       style="font-size:13.34046555px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Noto Sans T Chinese;-inkscape-font-specification:Noto Sans T Chinese"
+       x="282.5683"
+       y="156.96332"
        id="text4089"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          id="tspan4091"
-         x="208.99101"
-         y="182.04683">復興崗</tspan></text>
+         x="282.5683"
+         y="156.96332">復興崗</tspan></text>
     <text
        sodipodi:linespacing="125%"
        id="text4093"
-       y="188.94453"
-       x="301.24136"
-       style="font-size:13.34046555px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:'儷黑 Pro';-inkscape-font-specification:'儷黑 Pro'"
+       y="163.86102"
+       x="374.81863"
+       style="font-size:13.34046555px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Noto Sans T Chinese;-inkscape-font-specification:Noto Sans T Chinese"
        xml:space="preserve"><tspan
-         y="188.94453"
-         x="301.24136"
+         y="163.86102"
+         x="374.81863"
          id="tspan4095"
          sodipodi:role="line">奇岩</tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:13.34046555px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:'儷黑 Pro';-inkscape-font-specification:'儷黑 Pro'"
-       x="340.81973"
-       y="106.03285"
+       style="font-size:13.34046555px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Noto Sans T Chinese;-inkscape-font-specification:Noto Sans T Chinese"
+       x="414.397"
+       y="80.949341"
        id="text4097"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          id="tspan4099"
-         x="340.81973"
-         y="106.03285">新北投</tspan></text>
+         x="414.397"
+         y="80.949341">新北投</tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:13.34046555px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:'儷黑 Pro';-inkscape-font-specification:'儷黑 Pro'"
-       x="332.44998"
-       y="218.35013"
+       style="font-size:13.34046555px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Noto Sans T Chinese;-inkscape-font-specification:Noto Sans T Chinese"
+       x="406.02725"
+       y="193.26662"
        id="text4101"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          id="tspan4103"
-         x="332.44998"
-         y="218.35013">唭哩岸</tspan></text>
+         x="406.02725"
+         y="193.26662">唭哩岸</tspan></text>
     <text
        sodipodi:linespacing="125%"
        id="text4105"
-       y="250.22018"
-       x="354.76196"
-       style="font-size:13.34046555px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:'儷黑 Pro';-inkscape-font-specification:'儷黑 Pro'"
+       y="225.13667"
+       x="428.33923"
+       style="font-size:13.34046555px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Noto Sans T Chinese;-inkscape-font-specification:Noto Sans T Chinese"
        xml:space="preserve"><tspan
-         y="250.22018"
-         x="354.76196"
+         y="225.13667"
+         x="428.33923"
          id="tspan4107"
          sodipodi:role="line">石牌</tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:13.34046555px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:'儷黑 Pro';-inkscape-font-specification:'儷黑 Pro'"
-       x="319.22644"
-       y="284.55472"
+       style="font-size:13.34046555px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Noto Sans T Chinese;-inkscape-font-specification:Noto Sans T Chinese"
+       x="392.80371"
+       y="259.47122"
        id="text4109"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          id="tspan4111"
-         x="319.22644"
-         y="284.55472">明德</tspan></text>
+         x="392.80371"
+         y="259.47122">明德</tspan></text>
     <text
        sodipodi:linespacing="125%"
        id="text4113"
-       y="327.51666"
-       x="319.94684"
-       style="font-size:13.34046555px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:'儷黑 Pro';-inkscape-font-specification:'儷黑 Pro'"
+       y="302.43317"
+       x="393.52411"
+       style="font-size:13.34046555px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Noto Sans T Chinese;-inkscape-font-specification:Noto Sans T Chinese"
        xml:space="preserve"><tspan
-         y="327.51666"
-         x="319.94684"
+         y="302.43317"
+         x="393.52411"
          id="tspan4115"
          sodipodi:role="line">芝山</tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:13.34046555px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:'儷黑 Pro';-inkscape-font-specification:'儷黑 Pro'"
-       x="319.11972"
-       y="367.11465"
+       style="font-size:13.34046555px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Noto Sans T Chinese;-inkscape-font-specification:Noto Sans T Chinese"
+       x="392.69699"
+       y="342.03116"
        id="text4117"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          id="tspan4119"
-         x="319.11972"
-         y="367.11465">士林</tspan></text>
+         x="392.69699"
+         y="342.03116">士林</tspan></text>
     <text
        sodipodi:linespacing="125%"
        id="text4121"
-       y="408.88422"
-       x="319.31982"
-       style="font-size:13.34046555px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:'儷黑 Pro';-inkscape-font-specification:'儷黑 Pro'"
+       y="383.80072"
+       x="392.89709"
+       style="font-size:13.34046555px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Noto Sans T Chinese;-inkscape-font-specification:Noto Sans T Chinese"
        xml:space="preserve"><tspan
-         y="408.88422"
-         x="319.31982"
+         y="383.80072"
+         x="392.89709"
          id="tspan4123"
          sodipodi:role="line">劍潭</tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:13.34046555px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:'儷黑 Pro';-inkscape-font-specification:'儷黑 Pro'"
-       x="319.94684"
-       y="440.73956"
+       style="font-size:13.34046555px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Noto Sans T Chinese;-inkscape-font-specification:Noto Sans T Chinese"
+       x="393.52411"
+       y="415.65607"
        id="text4125"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          id="tspan4127"
-         x="319.94684"
-         y="440.73956">圓山</tspan></text>
+         x="393.52411"
+         y="415.65607">圓山</tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:13.34046555px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:'儷黑 Pro';-inkscape-font-specification:'儷黑 Pro'"
-       x="310.47903"
-       y="469.19205"
+       style="font-size:13.34046555px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Noto Sans T Chinese;-inkscape-font-specification:Noto Sans T Chinese"
+       x="384.0563"
+       y="444.10855"
        id="text4133"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          id="tspan4135"
-         x="310.47903"
-         y="469.19205">民權西路</tspan></text>
+         x="384.0563"
+         y="444.10855">民權西路</tspan></text>
     <text
        sodipodi:linespacing="125%"
        id="text4137"
-       y="469.19205"
-       x="405.12161"
-       style="font-size:13.34046555px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:'儷黑 Pro';-inkscape-font-specification:'儷黑 Pro'"
+       y="444.10855"
+       x="478.69888"
+       style="font-size:13.34046555px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Noto Sans T Chinese;-inkscape-font-specification:Noto Sans T Chinese"
        xml:space="preserve"><tspan
-         y="469.19205"
-         x="405.12161"
+         y="444.10855"
+         x="478.69888"
          id="tspan4139"
          sodipodi:role="line">中山國小</tspan></text>
     <text
        sodipodi:linespacing="125%"
        id="text4141"
-       y="149.35013"
-       x="279.13647"
-       style="font-size:13.34046555px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:'儷黑 Pro';-inkscape-font-specification:'儷黑 Pro'"
+       y="124.26662"
+       x="352.71375"
+       style="font-size:13.34046555px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Noto Sans T Chinese;-inkscape-font-specification:Noto Sans T Chinese"
        xml:space="preserve"><tspan
-         y="149.35013"
-         x="279.13647"
+         y="124.26662"
+         x="352.71375"
          id="tspan4143"
          sodipodi:role="line">北投</tspan></text>
     <text
        sodipodi:linespacing="125%"
        id="text4145"
-       y="528.15125"
-       x="319.27982"
-       style="font-size:13.34046555px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:'儷黑 Pro';-inkscape-font-specification:'儷黑 Pro'"
+       y="503.06775"
+       x="392.85709"
+       style="font-size:13.34046555px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Noto Sans T Chinese;-inkscape-font-specification:Noto Sans T Chinese"
        xml:space="preserve"><tspan
-         y="528.15125"
-         x="319.27982"
+         y="503.06775"
+         x="392.85709"
          id="tspan4147"
          sodipodi:role="line">雙連</tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:13.34046555px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:'儷黑 Pro';-inkscape-font-specification:'儷黑 Pro'"
-       x="319.94684"
-       y="565.05072"
+       style="font-size:13.34046555px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Noto Sans T Chinese;-inkscape-font-specification:Noto Sans T Chinese"
+       x="393.52411"
+       y="539.96722"
        id="text4149"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          id="tspan4151"
-         x="319.94684"
-         y="565.05072">中山</tspan></text>
+         x="393.52411"
+         y="539.96722">中山</tspan></text>
     <text
        sodipodi:linespacing="125%"
        id="text4153"
-       y="598.87915"
-       x="302.97937"
-       style="font-size:13.34046555px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:'儷黑 Pro';-inkscape-font-specification:'儷黑 Pro'"
+       y="573.79565"
+       x="376.55664"
+       style="font-size:13.34046555px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Noto Sans T Chinese;-inkscape-font-specification:Noto Sans T Chinese"
        xml:space="preserve"><tspan
-         y="598.87915"
-         x="302.97937"
+         y="573.79565"
+         x="376.55664"
          id="tspan4155"
          sodipodi:role="line">台北車站</tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:13.34046555px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:'儷黑 Pro';-inkscape-font-specification:'儷黑 Pro'"
-       x="303.93936"
-       y="675.28296"
+       style="font-size:13.34046555px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Noto Sans T Chinese;-inkscape-font-specification:Noto Sans T Chinese"
+       x="377.51663"
+       y="650.19946"
        id="text4157"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          id="tspan4159"
-         x="303.93936"
-         y="675.28296">台大醫院</tspan></text>
+         x="377.51663"
+         y="650.19946">台大醫院</tspan></text>
     <text
        sodipodi:linespacing="125%"
        id="text4161"
-       y="718.2934"
-       x="298.88062"
-       style="font-size:13.34046555px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:'儷黑 Pro';-inkscape-font-specification:'儷黑 Pro'"
+       y="693.2099"
+       x="372.45789"
+       style="font-size:13.34046555px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Noto Sans T Chinese;-inkscape-font-specification:Noto Sans T Chinese"
        xml:space="preserve"><tspan
-         y="718.2934"
-         x="298.88062"
+         y="693.2099"
+         x="372.45789"
          id="tspan4163"
          sodipodi:role="line">中正紀念堂</tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:13.34046555px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:'儷黑 Pro';-inkscape-font-specification:'儷黑 Pro'"
-       x="387.67764"
-       y="755.7995"
+       style="font-size:13.34046555px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Noto Sans T Chinese;-inkscape-font-specification:Noto Sans T Chinese"
+       x="426.11337"
+       y="772.35376"
        id="text4165"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          id="tspan4167"
-         x="387.67764"
-         y="755.7995">古亭</tspan></text>
+         x="426.11337"
+         y="772.35376">古亭</tspan></text>
     <text
        sodipodi:linespacing="125%"
        id="text4169"
-       y="804.64874"
-       x="456.72729"
-       style="font-size:13.34046555px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:'儷黑 Pro';-inkscape-font-specification:'儷黑 Pro'"
+       y="810.3089"
+       x="534.9032"
+       style="font-size:13.34046555px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Noto Sans T Chinese;-inkscape-font-specification:Noto Sans T Chinese"
        xml:space="preserve"><tspan
-         y="804.64874"
-         x="456.72729"
+         y="810.3089"
+         x="534.9032"
          id="tspan4171"
          sodipodi:role="line">台電大樓</tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:13.34046555px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:'儷黑 Pro';-inkscape-font-specification:'儷黑 Pro'"
-       x="460.88202"
-       y="832.99182"
+       style="font-size:13.34046555px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Noto Sans T Chinese;-inkscape-font-specification:Noto Sans T Chinese"
+       x="545.3288"
+       y="838.65198"
        id="text4173"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          id="tspan4175"
-         x="460.88202"
-         y="832.99182">公館</tspan></text>
+         x="545.3288"
+         y="838.65198">公館</tspan></text>
     <text
        sodipodi:linespacing="125%"
        id="text4177"
-       y="873.94159"
-       x="461.09546"
-       style="font-size:13.34046555px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:'儷黑 Pro';-inkscape-font-specification:'儷黑 Pro'"
+       y="879.60175"
+       x="545.54224"
+       style="font-size:13.34046555px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Noto Sans T Chinese;-inkscape-font-specification:Noto Sans T Chinese"
        xml:space="preserve"><tspan
-         y="873.94159"
-         x="461.09546"
+         y="879.60175"
+         x="545.54224"
          id="tspan4179"
          sodipodi:role="line">萬隆</tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:13.34046555px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:'儷黑 Pro';-inkscape-font-specification:'儷黑 Pro'"
-       x="461.09546"
-       y="914.28473"
+       style="font-size:13.34046555px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Noto Sans T Chinese;-inkscape-font-specification:Noto Sans T Chinese"
+       x="545.54224"
+       y="919.94489"
        id="text4181"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          id="tspan4183"
-         x="461.09546"
-         y="914.28473">景美</tspan></text>
+         x="545.54224"
+         y="919.94489">景美</tspan></text>
     <text
        sodipodi:linespacing="125%"
        id="text4185"
-       y="945.69897"
-       x="467.81906"
-       style="font-size:13.34046555px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:'儷黑 Pro';-inkscape-font-specification:'儷黑 Pro'"
+       y="951.35913"
+       x="552.26587"
+       style="font-size:13.34046555px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Noto Sans T Chinese;-inkscape-font-specification:Noto Sans T Chinese"
        xml:space="preserve"><tspan
-         y="945.69897"
-         x="467.81906"
+         y="951.35913"
+         x="552.26587"
          id="tspan4187"
          sodipodi:role="line">大坪林</tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:13.34046555px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:'儷黑 Pro';-inkscape-font-specification:'儷黑 Pro'"
-       x="469.1488"
-       y="984.28473"
+       style="font-size:13.34046555px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Noto Sans T Chinese;-inkscape-font-specification:Noto Sans T Chinese"
+       x="553.59558"
+       y="989.94489"
        id="text4189"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          id="tspan4191"
-         x="469.1488"
-         y="984.28473">七張</tspan></text>
+         x="553.59558"
+         y="989.94489">七張</tspan></text>
     <text
        sodipodi:linespacing="125%"
        id="text4193"
-       y="1026.5776"
-       x="481.2529"
-       style="font-size:13.34046555px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:'儷黑 Pro';-inkscape-font-specification:'儷黑 Pro'"
+       y="1032.2378"
+       x="565.69971"
+       style="font-size:13.34046555px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Noto Sans T Chinese;-inkscape-font-specification:Noto Sans T Chinese"
        xml:space="preserve"><tspan
-         y="1026.5776"
-         x="481.2529"
+         y="1032.2378"
+         x="565.69971"
          id="tspan4195"
          sodipodi:role="line">新店區公所</tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:13.34046555px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:'儷黑 Pro';-inkscape-font-specification:'儷黑 Pro'"
-       x="400.24219"
-       y="1063.9919"
+       style="font-size:13.34046555px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Noto Sans T Chinese;-inkscape-font-specification:Noto Sans T Chinese"
+       x="484.68896"
+       y="1069.6521"
        id="text4197"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          id="tspan4199"
-         x="400.24219"
-         y="1063.9919">新店</tspan></text>
+         x="484.68896"
+         y="1069.6521">新店</tspan></text>
     <text
        sodipodi:linespacing="125%"
        id="text4201"
-       y="961.09235"
-       x="359.42209"
-       style="font-size:13.34046555px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:'儷黑 Pro';-inkscape-font-specification:'儷黑 Pro'"
+       y="966.7525"
+       x="443.86887"
+       style="font-size:13.34046555px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Noto Sans T Chinese;-inkscape-font-specification:Noto Sans T Chinese"
        xml:space="preserve"><tspan
-         y="961.09235"
-         x="359.42209"
+         y="966.7525"
+         x="443.86887"
          id="tspan4203"
          sodipodi:role="line">小碧潭</tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:13.34046555px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:'儷黑 Pro';-inkscape-font-specification:'儷黑 Pro'"
-       x="815.51593"
-       y="504.10098"
+       style="font-size:13.34046555px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Noto Sans T Chinese;-inkscape-font-specification:Noto Sans T Chinese"
+       x="933.40741"
+       y="479.01749"
        id="text4205"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          id="tspan4207"
-         x="815.51593"
-         y="504.10098">南港</tspan><tspan
+         x="933.40741"
+         y="479.01749">南港</tspan><tspan
          sodipodi:role="line"
-         x="815.51593"
-         y="520.77655"
+         x="933.40741"
+         y="495.69305"
          id="tspan4209">展覽館</tspan></text>
     <text
        sodipodi:linespacing="125%"
        id="text4211"
-       y="591.4563"
-       x="842.15155"
-       style="font-size:13.34046555px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:'儷黑 Pro';-inkscape-font-specification:'儷黑 Pro'"
+       y="566.3728"
+       x="960.04303"
+       style="font-size:13.34046555px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Noto Sans T Chinese;-inkscape-font-specification:Noto Sans T Chinese"
        xml:space="preserve"><tspan
          id="tspan4215"
-         y="591.4563"
-         x="842.15155"
+         y="566.3728"
+         x="960.04303"
          sodipodi:role="line">南港</tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:13.34046555px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:'儷黑 Pro';-inkscape-font-specification:'儷黑 Pro'"
-       x="801.88379"
-       y="620.40607"
+       style="font-size:13.34046555px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Noto Sans T Chinese;-inkscape-font-specification:Noto Sans T Chinese"
+       x="919.77527"
+       y="595.32257"
        id="text4219"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
-         x="801.88379"
-         y="620.40607"
+         x="919.77527"
+         y="595.32257"
          id="tspan4221">昆陽</tspan></text>
     <text
        sodipodi:linespacing="125%"
        id="text4223"
-       y="635.34363"
-       x="738.39691"
-       style="font-size:13.34046555px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:'儷黑 Pro';-inkscape-font-specification:'儷黑 Pro'"
+       y="610.26013"
+       x="860.45453"
+       style="font-size:13.34046555px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Noto Sans T Chinese;-inkscape-font-specification:Noto Sans T Chinese"
        xml:space="preserve"><tspan
          id="tspan4225"
-         y="635.34363"
-         x="738.39691"
+         y="610.26013"
+         x="860.45453"
          sodipodi:role="line">後山埤</tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:13.34046555px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:'儷黑 Pro';-inkscape-font-specification:'儷黑 Pro'"
-       x="684.09064"
-       y="635.34363"
+       style="font-size:13.34046555px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Noto Sans T Chinese;-inkscape-font-specification:Noto Sans T Chinese"
+       x="806.14825"
+       y="610.26013"
        id="text4227"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
-         x="684.09064"
-         y="635.34363"
+         x="806.14825"
+         y="610.26013"
          id="tspan4229">永春</tspan></text>
     <text
        sodipodi:linespacing="125%"
        id="text4231"
-       y="635.45038"
-       x="634.71417"
-       style="font-size:13.34046555px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:'儷黑 Pro';-inkscape-font-specification:'儷黑 Pro'"
+       y="610.36688"
+       x="756.77179"
+       style="font-size:13.34046555px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Noto Sans T Chinese;-inkscape-font-specification:Noto Sans T Chinese"
        xml:space="preserve"><tspan
          id="tspan4233"
-         y="635.45038"
-         x="634.71417"
+         y="610.36688"
+         x="756.77179"
          sodipodi:role="line">市政府</tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:13.34046555px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:'儷黑 Pro';-inkscape-font-specification:'儷黑 Pro'"
-       x="593.6875"
-       y="635.1969"
+       style="font-size:13.34046555px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Noto Sans T Chinese;-inkscape-font-specification:Noto Sans T Chinese"
+       x="715.74512"
+       y="610.1134"
        id="text4235"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
-         x="593.6875"
-         y="635.1969"
+         x="715.74512"
+         y="610.1134"
          id="tspan4237">國父</tspan><tspan
          sodipodi:role="line"
-         x="593.6875"
-         y="651.8725"
+         x="715.74512"
+         y="626.789"
          id="tspan4295">紀念館</tspan></text>
     <text
        sodipodi:linespacing="125%"
        id="text4239"
-       y="635.34363"
-       x="541.20428"
-       style="font-size:13.34046555px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:'儷黑 Pro';-inkscape-font-specification:'儷黑 Pro'"
+       y="610.26013"
+       x="663.2619"
+       style="font-size:13.34046555px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Noto Sans T Chinese;-inkscape-font-specification:Noto Sans T Chinese"
        xml:space="preserve"><tspan
          id="tspan4241"
-         y="635.34363"
-         x="541.20428"
+         y="610.26013"
+         x="663.2619"
          sodipodi:role="line">忠孝敦化</tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:13.34046555px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:'儷黑 Pro';-inkscape-font-specification:'儷黑 Pro'"
-       x="529.30432"
-       y="584.34363"
+       style="font-size:13.34046555px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Noto Sans T Chinese;-inkscape-font-specification:Noto Sans T Chinese"
+       x="651.36194"
+       y="559.26013"
        id="text4243"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
-         x="529.30432"
-         y="584.34363"
+         x="651.36194"
+         y="559.26013"
          id="tspan4245">忠孝復興</tspan></text>
     <text
        sodipodi:linespacing="125%"
        id="text4247"
-       y="586.39386"
-       x="405.6452"
-       style="font-size:13.34046555px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:'儷黑 Pro';-inkscape-font-specification:'儷黑 Pro'"
+       y="561.31036"
+       x="479.22247"
+       style="font-size:13.34046555px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Noto Sans T Chinese;-inkscape-font-specification:Noto Sans T Chinese"
        xml:space="preserve"><tspan
          id="tspan4249"
-         y="586.39386"
-         x="405.6452"
+         y="561.31036"
+         x="479.22247"
          sodipodi:role="line">忠孝新生</tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:13.34046555px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:'儷黑 Pro';-inkscape-font-specification:'儷黑 Pro'"
-       x="391.58743"
-       y="631.34363"
+       style="font-size:13.34046555px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Noto Sans T Chinese;-inkscape-font-specification:Noto Sans T Chinese"
+       x="465.1647"
+       y="606.26013"
        id="text4251"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
-         x="391.58743"
-         y="631.34363"
+         x="465.1647"
+         y="606.26013"
          id="tspan4253">善導寺</tspan></text>
     <text
        sodipodi:linespacing="125%"
        id="text4255"
-       y="587.4043"
-       x="235.89391"
-       style="font-size:13.34046555px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:'儷黑 Pro';-inkscape-font-specification:'儷黑 Pro'"
+       y="562.3208"
+       x="309.47119"
+       style="font-size:13.34046555px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Noto Sans T Chinese;-inkscape-font-specification:Noto Sans T Chinese"
        xml:space="preserve"><tspan
          id="tspan4257"
-         y="587.4043"
-         x="235.89391"
+         y="562.3208"
+         x="309.47119"
          sodipodi:role="line">西門</tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:13.34046555px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:'儷黑 Pro';-inkscape-font-specification:'儷黑 Pro'"
-       x="182.07323"
-       y="621.06116"
+       style="font-size:13.34046555px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Noto Sans T Chinese;-inkscape-font-specification:Noto Sans T Chinese"
+       x="255.65051"
+       y="595.97766"
        id="text4259"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
-         x="182.07323"
-         y="621.06116"
+         x="255.65051"
+         y="595.97766"
          id="tspan4261">龍山寺</tspan></text>
     <text
        sodipodi:linespacing="125%"
        id="text4263"
-       y="626.64691"
-       x="123.85641"
-       style="font-size:13.34046555px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:'儷黑 Pro';-inkscape-font-specification:'儷黑 Pro'"
+       y="601.56342"
+       x="197.4337"
+       style="font-size:13.34046555px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Noto Sans T Chinese;-inkscape-font-specification:Noto Sans T Chinese"
        xml:space="preserve"><tspan
          id="tspan4265"
-         y="626.64691"
-         x="123.85641"
+         y="601.56342"
+         x="197.4337"
          sodipodi:role="line">江子翠</tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:13.34046555px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:'儷黑 Pro';-inkscape-font-specification:'儷黑 Pro'"
-       x="129.09062"
-       y="671.84363"
+       style="font-size:13.34046555px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Noto Sans T Chinese;-inkscape-font-specification:Noto Sans T Chinese"
+       x="202.66791"
+       y="646.76013"
        id="text4267"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
-         x="129.09062"
-         y="671.84363"
+         x="202.66791"
+         y="646.76013"
          id="tspan4269">新埔</tspan></text>
     <text
        sodipodi:linespacing="125%"
        id="text4271"
-       y="696.84363"
-       x="89.61731"
-       style="font-size:13.34046555px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:'儷黑 Pro';-inkscape-font-specification:'儷黑 Pro'"
+       y="671.76013"
+       x="163.1946"
+       style="font-size:13.34046555px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Noto Sans T Chinese;-inkscape-font-specification:Noto Sans T Chinese"
        xml:space="preserve"><tspan
          id="tspan4273"
-         y="696.84363"
-         x="89.61731"
+         y="671.76013"
+         x="163.1946"
          sodipodi:role="line">板橋</tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:13.34046555px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:'儷黑 Pro';-inkscape-font-specification:'儷黑 Pro'"
-       x="52.57061"
-       y="721.34363"
+       style="font-size:13.34046555px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Noto Sans T Chinese;-inkscape-font-specification:Noto Sans T Chinese"
+       x="126.1479"
+       y="696.26013"
        id="text4275"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
-         x="52.57061"
-         y="721.34363"
+         x="126.1479"
+         y="696.26013"
          id="tspan4277">府中</tspan></text>
     <text
        sodipodi:linespacing="125%"
        id="text4279"
-       y="768.84363"
-       x="65.657608"
-       style="font-size:13.34046555px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:'儷黑 Pro';-inkscape-font-specification:'儷黑 Pro'"
+       y="743.76013"
+       x="139.23489"
+       style="font-size:13.34046555px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Noto Sans T Chinese;-inkscape-font-specification:Noto Sans T Chinese"
        xml:space="preserve"><tspan
          id="tspan4281"
-         y="768.84363"
-         x="65.657608"
+         y="743.76013"
+         x="139.23489"
          sodipodi:role="line">亞東醫院</tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:13.34046555px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:'儷黑 Pro';-inkscape-font-specification:'儷黑 Pro'"
-       x="52.57061"
-       y="820.84363"
+       style="font-size:13.34046555px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Noto Sans T Chinese;-inkscape-font-specification:Noto Sans T Chinese"
+       x="126.1479"
+       y="795.76013"
        id="text4283"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
-         x="52.57061"
-         y="820.84363"
+         x="126.1479"
+         y="795.76013"
          id="tspan4285">海山</tspan></text>
     <text
        sodipodi:linespacing="125%"
        id="text4287"
-       y="869.84363"
-       x="52.370506"
-       style="font-size:13.34046555px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:'儷黑 Pro';-inkscape-font-specification:'儷黑 Pro'"
+       y="844.76013"
+       x="125.94779"
+       style="font-size:13.34046555px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Noto Sans T Chinese;-inkscape-font-specification:Noto Sans T Chinese"
        xml:space="preserve"><tspan
          id="tspan4289"
-         y="869.84363"
-         x="52.370506"
+         y="844.76013"
+         x="125.94779"
          sodipodi:role="line">土城</tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:13.34046555px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:'儷黑 Pro';-inkscape-font-specification:'儷黑 Pro'"
-       x="23.51725"
-       y="953.84363"
+       style="font-size:13.34046555px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Noto Sans T Chinese;-inkscape-font-specification:Noto Sans T Chinese"
+       x="97.094536"
+       y="928.76013"
        id="text4291"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
-         x="23.51725"
-         y="953.84363"
+         x="97.094536"
+         y="928.76013"
          id="tspan4293">永寧</tspan></text>
     <text
        sodipodi:linespacing="125%"
        id="text4297"
-       y="324.11319"
-       x="24.014248"
-       style="font-size:13.34046555px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:'儷黑 Pro';-inkscape-font-specification:'儷黑 Pro'"
+       y="299.02969"
+       x="97.59153"
+       style="font-size:13.34046555px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Noto Sans T Chinese;-inkscape-font-specification:Noto Sans T Chinese"
        xml:space="preserve"><tspan
          id="tspan4299"
-         y="324.11319"
-         x="24.014248"
+         y="299.02969"
+         x="97.59153"
          sodipodi:role="line">蘆洲</tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:13.34046555px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:'儷黑 Pro';-inkscape-font-specification:'儷黑 Pro'"
-       x="100.84644"
-       y="359.95023"
+       style="font-size:13.34046555px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Noto Sans T Chinese;-inkscape-font-specification:Noto Sans T Chinese"
+       x="174.42374"
+       y="334.86673"
        id="text4301"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
-         x="100.84644"
-         y="359.95023"
+         x="174.42374"
+         y="334.86673"
          id="tspan4303">三民高中</tspan></text>
     <text
        sodipodi:linespacing="125%"
        id="text4305"
-       y="387.82892"
-       x="133.64749"
-       style="font-size:13.34046555px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:'儷黑 Pro';-inkscape-font-specification:'儷黑 Pro'"
+       y="362.74542"
+       x="207.22478"
+       style="font-size:13.34046555px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Noto Sans T Chinese;-inkscape-font-specification:Noto Sans T Chinese"
        xml:space="preserve"><tspan
          id="tspan4307"
-         y="387.82892"
-         x="133.64749"
+         y="362.74542"
+         x="207.22478"
          sodipodi:role="line">徐匯中學</tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:13.34046555px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:'儷黑 Pro';-inkscape-font-specification:'儷黑 Pro'"
-       x="181.1393"
-       y="418.2934"
+       style="font-size:13.34046555px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Noto Sans T Chinese;-inkscape-font-specification:Noto Sans T Chinese"
+       x="254.71658"
+       y="393.2099"
        id="text4309"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
-         x="181.1393"
-         y="418.2934"
+         x="254.71658"
+         y="393.2099"
          id="tspan4311">三和國中</tspan></text>
     <text
        sodipodi:linespacing="125%"
        id="text4313"
-       y="444.92941"
-       x="214.84576"
-       style="font-size:13.34046555px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:'儷黑 Pro';-inkscape-font-specification:'儷黑 Pro'"
+       y="419.84592"
+       x="288.42303"
+       style="font-size:13.34046555px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Noto Sans T Chinese;-inkscape-font-specification:Noto Sans T Chinese"
        xml:space="preserve"><tspan
          id="tspan4315"
-         y="444.92941"
-         x="214.84576"
+         y="419.84592"
+         x="288.42303"
          sodipodi:role="line">三重國小</tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:13.34046555px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:'儷黑 Pro';-inkscape-font-specification:'儷黑 Pro'"
-       x="244.40633"
-       y="469.17203"
+       style="font-size:13.34046555px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Noto Sans T Chinese;-inkscape-font-specification:Noto Sans T Chinese"
+       x="317.98361"
+       y="444.08853"
        id="text4317"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
-         x="244.40633"
-         y="469.17203"
+         x="317.98361"
+         y="444.08853"
          id="tspan4319">大橋頭</tspan></text>
     <text
        sodipodi:linespacing="125%"
        id="text4321"
-       y="525.00659"
-       x="226.32661"
-       style="font-size:13.34046555px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:'儷黑 Pro';-inkscape-font-specification:'儷黑 Pro'"
+       y="499.9231"
+       x="299.9039"
+       style="font-size:13.34046555px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Noto Sans T Chinese;-inkscape-font-specification:Noto Sans T Chinese"
        xml:space="preserve"><tspan
          id="tspan4323"
-         y="525.00659"
-         x="226.32661"
+         y="499.9231"
+         x="299.9039"
          sodipodi:role="line">台北橋</tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:13.34046555px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:'儷黑 Pro';-inkscape-font-specification:'儷黑 Pro'"
-       x="182.29565"
-       y="547.33502"
+       style="font-size:13.34046555px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Noto Sans T Chinese;-inkscape-font-specification:Noto Sans T Chinese"
+       x="255.87294"
+       y="522.25153"
        id="text4325"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
-         x="182.29565"
-         y="547.33502"
+         x="255.87294"
+         y="522.25153"
          id="tspan4327">菜寮</tspan></text>
     <text
        sodipodi:linespacing="125%"
        id="text4329"
-       y="564.33502"
-       x="145.27255"
-       style="font-size:13.34046555px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:'儷黑 Pro';-inkscape-font-specification:'儷黑 Pro'"
+       y="539.25153"
+       x="218.84984"
+       style="font-size:13.34046555px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Noto Sans T Chinese;-inkscape-font-specification:Noto Sans T Chinese"
        xml:space="preserve"><tspan
          id="tspan4331"
-         y="564.33502"
-         x="145.27255"
+         y="539.25153"
+         x="218.84984"
          sodipodi:role="line">三重</tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:13.34046555px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:'儷黑 Pro';-inkscape-font-specification:'儷黑 Pro'"
-       x="111.97163"
-       y="582.99188"
+       style="font-size:13.34046555px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Noto Sans T Chinese;-inkscape-font-specification:Noto Sans T Chinese"
+       x="185.54892"
+       y="557.90839"
        id="text4333"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
-         x="111.97163"
-         y="582.99188"
+         x="185.54892"
+         y="557.90839"
          id="tspan4335">先嗇宮</tspan></text>
     <text
        sodipodi:linespacing="125%"
        id="text4337"
-       y="605.32025"
-       x="66.273048"
-       style="font-size:13.34046555px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:'儷黑 Pro';-inkscape-font-specification:'儷黑 Pro'"
+       y="580.23676"
+       x="139.85033"
+       style="font-size:13.34046555px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Noto Sans T Chinese;-inkscape-font-specification:Noto Sans T Chinese"
        xml:space="preserve"><tspan
          id="tspan4339"
-         y="605.32025"
-         x="66.273048"
+         y="580.23676"
+         x="139.85033"
          sodipodi:role="line">頭前庄</tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:13.34046555px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:'儷黑 Pro';-inkscape-font-specification:'儷黑 Pro'"
-       x="21.899273"
-       y="624.96674"
+       style="font-size:13.34046555px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Noto Sans T Chinese;-inkscape-font-specification:Noto Sans T Chinese"
+       x="95.476555"
+       y="599.88324"
        id="text4341"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
-         x="21.899273"
-         y="624.96674"
+         x="95.476555"
+         y="599.88324"
          id="tspan4343">新莊</tspan></text>
     <text
        sodipodi:linespacing="125%"
        id="text4345"
-       y="602.28552"
-       x="-32.585915"
-       style="font-size:13.34046555px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:'儷黑 Pro';-inkscape-font-specification:'儷黑 Pro'"
+       y="618.07141"
+       x="66.699547"
+       style="font-size:13.34046555px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Noto Sans T Chinese;-inkscape-font-specification:Noto Sans T Chinese"
        xml:space="preserve"><tspan
          id="tspan4347"
-         y="602.28552"
-         x="-32.585915"
+         y="618.07141"
+         x="66.699547"
          sodipodi:role="line">輔大</tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:13.34046555px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:'儷黑 Pro';-inkscape-font-specification:'儷黑 Pro'"
-       x="410.43588"
-       y="520.80811"
+       style="font-size:13.34046555px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Noto Sans T Chinese;-inkscape-font-specification:Noto Sans T Chinese"
+       x="484.01315"
+       y="495.72461"
        id="text4349"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
-         x="410.43588"
-         y="520.80811"
+         x="484.01315"
+         y="495.72461"
          id="tspan4351">行天宮</tspan></text>
     <text
        sodipodi:linespacing="125%"
        id="text4353"
-       y="557.80811"
-       x="403.82529"
-       style="font-size:13.34046555px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:'儷黑 Pro';-inkscape-font-specification:'儷黑 Pro'"
+       y="532.72461"
+       x="477.40256"
+       style="font-size:13.34046555px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Noto Sans T Chinese;-inkscape-font-specification:Noto Sans T Chinese"
        xml:space="preserve"><tspan
          id="tspan4355"
-         y="557.80811"
-         x="403.82529"
+         y="532.72461"
+         x="477.40256"
          sodipodi:role="line">松江南京</tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:13.34046555px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:'儷黑 Pro';-inkscape-font-specification:'儷黑 Pro'"
-       x="414.12027"
-       y="678.17206"
+       style="font-size:13.34046555px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Noto Sans T Chinese;-inkscape-font-specification:Noto Sans T Chinese"
+       x="488.95172"
+       y="687.9903"
        id="text4357"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
-         x="414.12027"
-         y="678.17206"
+         x="488.95172"
+         y="687.9903"
          id="tspan4359">東門</tspan></text>
     <text
        sodipodi:linespacing="125%"
        id="text4361"
-       y="792.34973"
-       x="301.60028"
-       style="font-size:13.34046555px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:'儷黑 Pro';-inkscape-font-specification:'儷黑 Pro'"
+       y="798.00989"
+       x="375.17755"
+       style="font-size:13.34046555px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Noto Sans T Chinese;-inkscape-font-specification:Noto Sans T Chinese"
        xml:space="preserve"><tspan
          id="tspan4363"
-         y="792.34973"
-         x="301.60028"
+         y="798.00989"
+         x="375.17755"
          sodipodi:role="line">頂溪</tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:13.34046555px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:'儷黑 Pro';-inkscape-font-specification:'儷黑 Pro'"
-       x="226.93666"
-       y="850.34363"
+       style="font-size:13.34046555px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Noto Sans T Chinese;-inkscape-font-specification:Noto Sans T Chinese"
+       x="300.51395"
+       y="856.00378"
        id="text4365"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
-         x="226.93666"
-         y="850.34363"
+         x="300.51395"
+         y="856.00378"
          id="tspan4367">永安市場</tspan></text>
     <text
        sodipodi:linespacing="125%"
        id="text4369"
-       y="901.34363"
-       x="240.27713"
-       style="font-size:13.34046555px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:'儷黑 Pro';-inkscape-font-specification:'儷黑 Pro'"
+       y="907.00378"
+       x="313.8544"
+       style="font-size:13.34046555px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Noto Sans T Chinese;-inkscape-font-specification:Noto Sans T Chinese"
        xml:space="preserve"><tspan
          id="tspan4371"
-         y="901.34363"
-         x="240.27713"
+         y="907.00378"
+         x="313.8544"
          sodipodi:role="line">景安</tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:13.34046555px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:'儷黑 Pro';-inkscape-font-specification:'儷黑 Pro'"
-       x="269.3273"
-       y="991.34363"
+       style="font-size:13.34046555px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Noto Sans T Chinese;-inkscape-font-specification:Noto Sans T Chinese"
+       x="342.90457"
+       y="997.00378"
        id="text4373"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
-         x="269.3273"
-         y="991.34363"
+         x="342.90457"
+         y="997.00378"
          id="tspan4375">南勢角</tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:13.34046555px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:'儷黑 Pro';-inkscape-font-specification:'儷黑 Pro'"
-       x="816.3183"
-       y="419.34363"
+       style="font-size:13.34046555px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Noto Sans T Chinese;-inkscape-font-specification:Noto Sans T Chinese"
+       x="934.20978"
+       y="394.26013"
        id="text4377"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
-         x="816.3183"
-         y="419.34363"
+         x="934.20978"
+         y="394.26013"
          id="tspan4379"
-         style="text-align:center;text-anchor:middle">南港</tspan><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;text-anchor:middle;font-family:Noto Sans T Chinese;-inkscape-font-specification:Noto Sans T Chinese">南港</tspan><tspan
          sodipodi:role="line"
-         x="816.3183"
-         y="436.0192"
+         x="934.20978"
+         y="410.9357"
          id="tspan4481"
-         style="text-align:center;text-anchor:middle">軟體園區</tspan></text>
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;text-anchor:middle;font-family:Noto Sans T Chinese;-inkscape-font-specification:Noto Sans T Chinese">軟體園區</tspan></text>
     <text
        sodipodi:linespacing="125%"
        id="text4381"
-       y="362.34363"
-       x="829.83051"
-       style="font-size:13.34046555px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:'儷黑 Pro';-inkscape-font-specification:'儷黑 Pro'"
+       y="337.26013"
+       x="949.52325"
+       style="font-size:13.34046555px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Noto Sans T Chinese;-inkscape-font-specification:Noto Sans T Chinese"
        xml:space="preserve"><tspan
          id="tspan4383"
-         y="362.34363"
-         x="829.83051"
+         y="337.26013"
+         x="949.52325"
          sodipodi:role="line">東湖</tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:13.34046555px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:'儷黑 Pro';-inkscape-font-specification:'儷黑 Pro'"
-       x="808.83716"
-       y="306.34363"
+       style="font-size:13.34046555px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Noto Sans T Chinese;-inkscape-font-specification:Noto Sans T Chinese"
+       x="928.52991"
+       y="281.26013"
        id="text4385"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
-         x="808.83716"
-         y="306.34363"
+         x="928.52991"
+         y="281.26013"
          id="tspan4387">葫州</tspan></text>
     <text
        sodipodi:linespacing="125%"
        id="text4389"
-       y="258.34363"
-       x="772.17761"
-       style="font-size:13.34046555px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:'儷黑 Pro';-inkscape-font-specification:'儷黑 Pro'"
+       y="233.26012"
+       x="891.87036"
+       style="font-size:13.34046555px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Noto Sans T Chinese;-inkscape-font-specification:Noto Sans T Chinese"
        xml:space="preserve"><tspan
          id="tspan4391"
-         y="258.34363"
-         x="772.17761"
+         y="233.26012"
+         x="891.87036"
          sodipodi:role="line">大湖公園</tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:13.34046555px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:'儷黑 Pro';-inkscape-font-specification:'儷黑 Pro'"
-       x="749.31018"
-       y="189.29694"
+       style="font-size:13.34046555px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Noto Sans T Chinese;-inkscape-font-specification:Noto Sans T Chinese"
+       x="869.00293"
+       y="164.21342"
        id="text4393"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
-         x="749.31018"
-         y="189.29694"
+         x="869.00293"
+         y="164.21342"
          id="tspan4395">內湖</tspan></text>
     <text
        sodipodi:linespacing="125%"
        id="text4397"
-       y="189.34363"
-       x="680.09064"
-       style="font-size:13.34046555px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:'儷黑 Pro';-inkscape-font-specification:'儷黑 Pro'"
+       y="164.26012"
+       x="799.78339"
+       style="font-size:13.34046555px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Noto Sans T Chinese;-inkscape-font-specification:Noto Sans T Chinese"
        xml:space="preserve"><tspan
          id="tspan4399"
-         y="189.34363"
-         x="680.09064"
+         y="164.26012"
+         x="799.78339"
          sodipodi:role="line">文德</tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:13.34046555px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:'儷黑 Pro';-inkscape-font-specification:'儷黑 Pro'"
-       x="607.14398"
-       y="189.34363"
+       style="font-size:13.34046555px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Noto Sans T Chinese;-inkscape-font-specification:Noto Sans T Chinese"
+       x="726.83673"
+       y="164.26012"
        id="text4401"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
-         x="607.14398"
-         y="189.34363"
+         x="726.83673"
+         y="164.26012"
          id="tspan4403">港墘</tspan></text>
     <text
        sodipodi:linespacing="125%"
        id="text4405"
-       y="189.29694"
-       x="534.85718"
-       style="font-size:13.34046555px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:'儷黑 Pro';-inkscape-font-specification:'儷黑 Pro'"
+       y="164.21342"
+       x="654.54993"
+       style="font-size:13.34046555px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Noto Sans T Chinese;-inkscape-font-specification:Noto Sans T Chinese"
        xml:space="preserve"><tspan
          id="tspan4407"
-         y="189.29694"
-         x="534.85718"
+         y="164.21342"
+         x="654.54993"
          sodipodi:role="line">西湖</tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:13.34046555px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:'儷黑 Pro';-inkscape-font-specification:'儷黑 Pro'"
-       x="465.86758"
-       y="189.34363"
+       style="font-size:13.34046555px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Noto Sans T Chinese;-inkscape-font-specification:Noto Sans T Chinese"
+       x="585.56036"
+       y="164.26012"
        id="text4409"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
-         x="465.86758"
-         y="189.34363"
+         x="585.56036"
+         y="164.26012"
          id="tspan4411">劍南路</tspan></text>
     <text
        sodipodi:linespacing="125%"
        id="text4413"
-       y="272.34363"
-       x="475.99725"
-       style="font-size:13.34046555px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:'儷黑 Pro';-inkscape-font-specification:'儷黑 Pro'"
+       y="247.26012"
+       x="595.69"
+       style="font-size:13.34046555px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Noto Sans T Chinese;-inkscape-font-specification:Noto Sans T Chinese"
        xml:space="preserve"><tspan
          id="tspan4415"
-         y="272.34363"
-         x="475.99725"
+         y="247.26012"
+         x="595.69"
          sodipodi:role="line">大直</tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:13.34046555px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:'儷黑 Pro';-inkscape-font-specification:'儷黑 Pro'"
-       x="548.43109"
-       y="362.34363"
+       style="font-size:13.34046555px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Noto Sans T Chinese;-inkscape-font-specification:Noto Sans T Chinese"
+       x="668.12384"
+       y="337.26013"
        id="text4417"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
-         x="548.43109"
-         y="362.34363"
+         x="668.12384"
+         y="337.26013"
          id="tspan4419">松山機場</tspan></text>
     <text
        sodipodi:linespacing="125%"
        id="text4421"
-       y="458.34363"
-       x="528.73071"
-       style="font-size:13.34046555px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:'儷黑 Pro';-inkscape-font-specification:'儷黑 Pro'"
+       y="433.26013"
+       x="650.78833"
+       style="font-size:13.34046555px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Noto Sans T Chinese;-inkscape-font-specification:Noto Sans T Chinese"
        xml:space="preserve"><tspan
          id="tspan4423"
-         y="458.34363"
-         x="528.73071"
+         y="433.26013"
+         x="650.78833"
          sodipodi:role="line">中山國中</tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:13.34046555px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:'儷黑 Pro';-inkscape-font-specification:'儷黑 Pro'"
-       x="529.41107"
-       y="530.34363"
+       style="font-size:13.34046555px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Noto Sans T Chinese;-inkscape-font-specification:Noto Sans T Chinese"
+       x="651.46869"
+       y="505.26013"
        id="text4425"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
-         x="529.41107"
-         y="530.34363"
+         x="651.46869"
+         y="505.26013"
          id="tspan4427">南京東路</tspan></text>
     <text
        sodipodi:linespacing="125%"
        id="text4429"
-       y="708.34363"
-       x="516.12396"
-       style="font-size:13.34046555px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:'儷黑 Pro';-inkscape-font-specification:'儷黑 Pro'"
+       y="683.7605"
+       x="637.51862"
+       style="font-size:13.34046555px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Noto Sans T Chinese;-inkscape-font-specification:Noto Sans T Chinese"
        xml:space="preserve"><tspan
          id="tspan4431"
-         y="708.34363"
-         x="516.12396"
+         y="683.7605"
+         x="637.51862"
          sodipodi:role="line">大安</tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:13.34046555px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:'儷黑 Pro';-inkscape-font-specification:'儷黑 Pro'"
-       x="529.5578"
-       y="751.34363"
+       style="font-size:13.34046555px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Noto Sans T Chinese;-inkscape-font-specification:Noto Sans T Chinese"
+       x="575.3476"
+       y="759.76422"
        id="text4433"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
-         x="529.5578"
-         y="751.34363"
+         x="575.3476"
+         y="759.76422"
          id="tspan4435">科技大樓</tspan></text>
     <text
        sodipodi:linespacing="125%"
        id="text4437"
-       y="805.34363"
-       x="556.60742"
-       style="font-size:13.34046555px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:'儷黑 Pro';-inkscape-font-specification:'儷黑 Pro'"
+       y="807.85199"
+       x="679.84753"
+       style="font-size:13.34046555px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Noto Sans T Chinese;-inkscape-font-specification:Noto Sans T Chinese"
        xml:space="preserve"><tspan
          id="tspan4439"
-         y="805.34363"
-         x="556.60742"
+         y="807.85199"
+         x="679.84753"
          sodipodi:role="line">六張犁</tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:13.34046555px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:'儷黑 Pro';-inkscape-font-specification:'儷黑 Pro'"
-       x="630.04395"
-       y="811.34363"
+       style="font-size:13.34046555px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Noto Sans T Chinese;-inkscape-font-specification:Noto Sans T Chinese"
+       x="753.28406"
+       y="813.85199"
        id="text4441"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
-         x="630.04395"
-         y="811.34363"
+         x="753.28406"
+         y="813.85199"
          id="tspan4443">麟光</tspan></text>
     <text
        sodipodi:linespacing="125%"
        id="text4445"
-       y="846.34363"
-       x="630.04395"
-       style="font-size:13.34046555px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:'儷黑 Pro';-inkscape-font-specification:'儷黑 Pro'"
+       y="848.85199"
+       x="753.28406"
+       style="font-size:13.34046555px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Noto Sans T Chinese;-inkscape-font-specification:Noto Sans T Chinese"
        xml:space="preserve"><tspan
          id="tspan4447"
-         y="846.34363"
-         x="630.04395"
+         y="848.85199"
+         x="753.28406"
          sodipodi:role="line">辛亥</tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:13.34046555px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:'儷黑 Pro';-inkscape-font-specification:'儷黑 Pro'"
-       x="590.57953"
-       y="907.32361"
+       style="font-size:13.34046555px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Noto Sans T Chinese;-inkscape-font-specification:Noto Sans T Chinese"
+       x="713.81964"
+       y="909.83197"
        id="text4449"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
-         x="590.57953"
-         y="907.32361"
+         x="713.81964"
+         y="909.83197"
          id="tspan4451">萬芳醫院</tspan></text>
     <text
        sodipodi:linespacing="125%"
        id="text4453"
-       y="870.36365"
-       x="667.28436"
-       style="font-size:13.34046555px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:'儷黑 Pro';-inkscape-font-specification:'儷黑 Pro'"
+       y="872.87201"
+       x="790.52448"
+       style="font-size:13.34046555px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Noto Sans T Chinese;-inkscape-font-specification:Noto Sans T Chinese"
        xml:space="preserve"><tspan
          id="tspan4455"
-         y="870.36365"
-         x="667.28436"
+         y="872.87201"
+         x="790.52448"
          sodipodi:role="line">萬芳社區</tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:13.34046555px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:'儷黑 Pro';-inkscape-font-specification:'儷黑 Pro'"
-       x="719.06396"
-       y="870.34363"
+       style="font-size:13.34046555px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Noto Sans T Chinese;-inkscape-font-specification:Noto Sans T Chinese"
+       x="842.30408"
+       y="872.85199"
        id="text4457"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
-         x="719.06396"
-         y="870.34363"
+         x="842.30408"
+         y="872.85199"
          id="tspan4459">木柵</tspan></text>
     <text
        sodipodi:linespacing="125%"
        id="text4461"
-       y="887.34363"
-       x="815.55408"
-       style="font-size:13.34046555px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:'儷黑 Pro';-inkscape-font-specification:'儷黑 Pro'"
+       y="889.85199"
+       x="938.79419"
+       style="font-size:13.34046555px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Noto Sans T Chinese;-inkscape-font-specification:Noto Sans T Chinese"
        xml:space="preserve"><tspan
          id="tspan4463"
-         y="887.34363"
-         x="815.55408"
+         y="889.85199"
+         x="938.79419"
          sodipodi:role="line">動物園</tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:13.34046555px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:'儷黑 Pro';-inkscape-font-specification:'儷黑 Pro'"
-       x="725.75421"
-       y="926.34363"
+       style="font-size:13.34046555px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Noto Sans T Chinese;-inkscape-font-specification:Noto Sans T Chinese"
+       x="872.64325"
+       y="918.20996"
        id="text4465"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
-         x="725.75421"
-         y="926.34363"
+         x="872.64325"
+         y="918.20996"
          id="tspan4467">動物園站</tspan></text>
     <text
        sodipodi:linespacing="125%"
        id="text4469"
-       y="965.34363"
-       x="744.49548"
-       style="font-size:13.34046555px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:'儷黑 Pro';-inkscape-font-specification:'儷黑 Pro'"
+       y="957.20996"
+       x="891.38452"
+       style="font-size:13.34046555px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Noto Sans T Chinese;-inkscape-font-specification:Noto Sans T Chinese"
        xml:space="preserve"><tspan
          id="tspan4471"
-         y="965.34363"
-         x="744.49548"
+         y="957.20996"
+         x="891.38452"
          sodipodi:role="line">動物園內站</tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:13.34046555px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:'儷黑 Pro';-inkscape-font-specification:'儷黑 Pro'"
-       x="745.2608"
-       y="1006.3436"
+       style="font-size:13.34046555px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Noto Sans T Chinese;-inkscape-font-specification:Noto Sans T Chinese"
+       x="892.14984"
+       y="998.21008"
        id="text4473"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
-         x="745.2608"
-         y="1006.3436"
+         x="892.14984"
+         y="998.21008"
          id="tspan4475">指南宮站</tspan></text>
     <text
        sodipodi:linespacing="125%"
        id="text4477"
-       y="1037.3436"
-       x="716.76752"
-       style="font-size:13.34046555px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:'儷黑 Pro';-inkscape-font-specification:'儷黑 Pro'"
+       y="1029.21"
+       x="863.65656"
+       style="font-size:13.34046555px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Noto Sans T Chinese;-inkscape-font-specification:Noto Sans T Chinese"
        xml:space="preserve"><tspan
          id="tspan4479"
-         y="1037.3436"
-         x="716.76752"
+         y="1029.21"
+         x="863.65656"
          sodipodi:role="line">貓空站</tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:13.34046555px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:'儷黑 Pro';-inkscape-font-specification:'儷黑 Pro'"
-       x="205.58771"
-       y="705.34363"
+       style="font-size:13.34046555px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Noto Sans T Chinese;-inkscape-font-specification:Noto Sans T Chinese"
+       x="279.16498"
+       y="680.26013"
        id="text4483"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          id="tspan4485"
-         x="205.58771"
-         y="705.34363">小南門</tspan></text>
+         x="279.16498"
+         y="680.26013">小南門</tspan></text>
     <g
        id="g4504"
-       transform="matrix(0.79631174,0,0,0.79631174,56.250368,22.091682)">
+       transform="matrix(0.79631174,0,0,0.79631174,129.82765,-2.9918287)">
       <path
          transform="matrix(0.52754855,0,0,0.52754855,184.9056,64.395918)"
-         d="m 577.5,53.577026 c 0,25.681241 -20.81876,46.500004 -46.5,46.500004 -25.68124,0 -46.5,-20.818763 -46.5,-46.500004 0,-25.68124 20.81876,-46.4999996 46.5,-46.4999996 25.68124,0 46.5,20.8187596 46.5,46.4999996 z"
+         d="m 577.5,53.577026 a 46.5,46.5 0 1 1 -93,0 46.5,46.5 0 1 1 93,0 z"
          sodipodi:ry="46.5"
          sodipodi:rx="46.5"
          sodipodi:cy="53.577026"
@@ -2185,7 +2244,7 @@ You are able to remove license logo and author's name from the image if you keep
     <g
        id="layer1-4"
        inkscape:label="Layer 1"
-       transform="matrix(0.57142858,0,0,0.57142858,-47.421463,1056.7461)">
+       transform="matrix(0.57142858,0,0,0.57142858,-55.196866,1059.6294)">
       <g
          inkscape:export-ydpi="300.23013"
          inkscape:export-xdpi="300.23013"
@@ -2319,26 +2378,101 @@ You are able to remove license logo and author's name from the image if you keep
     </g>
     <text
        xml:space="preserve"
-       style="font-size:6.6138401px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:'儷黑 Pro';-inkscape-font-specification:'儷黑 Pro'"
-       x="-46.420105"
-       y="1087.3788"
+       style="font-size:6.6138401px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Noto Sans T Chinese;-inkscape-font-specification:Noto Sans T Chinese"
+       x="-54.195511"
+       y="1090.2621"
        id="text5239"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          id="tspan5241"
-         x="-46.420105"
-         y="1087.3788">created by walkingice</tspan></text>
+         x="-54.195511"
+         y="1090.2621">created by walkingice</tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:20px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#babdb6;fill-opacity:1;stroke:none;font-family:'儷黑 Pro';-inkscape-font-specification:'儷黑 Pro'"
-       x="628.90857"
-       y="992.48999"
+       style="font-size:20px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#babdb6;fill-opacity:1;stroke:none;font-family:Noto Sans T Chinese;-inkscape-font-specification:Noto Sans T Chinese"
+       x="775.79761"
+       y="984.35626"
        id="text5243"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          id="tspan5245"
-         x="628.90857"
-         y="992.48999"
-         style="font-style:italic;fill:#babdb6;-inkscape-font-specification:'儷黑 Pro Italic'">貓空纜車</tspan></text>
+         x="775.79761"
+         y="984.35626"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#babdb6;font-family:Noto Sans T Chinese;-inkscape-font-specification:Noto Sans T Chinese">貓空纜車</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:13.34046555px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Noto Sans T Chinese;-inkscape-font-specification:Noto Sans T Chinese"
+       x="561.84198"
+       y="678.12457"
+       id="text4118"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         x="561.84198"
+         y="678.12457"
+         id="tspan4120">大安</tspan><tspan
+         sodipodi:role="line"
+         x="561.84198"
+         y="694.80017"
+         id="tspan4122">森林公園</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:13.34046555px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Noto Sans T Chinese;-inkscape-font-specification:Noto Sans T Chinese"
+       x="693.68494"
+       y="683.84052"
+       id="text4130"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         x="693.68494"
+         y="683.84052"
+         id="tspan4132">信義安和</tspan></text>
+    <text
+       sodipodi:linespacing="125%"
+       id="text4134"
+       y="736.42249"
+       x="759.31079"
+       style="font-size:13.34046555px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Noto Sans T Chinese;-inkscape-font-specification:Noto Sans T Chinese"
+       xml:space="preserve"><tspan
+         id="tspan4136"
+         y="736.42249"
+         x="759.31079"
+         sodipodi:role="line">台北 101/世貿</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:13.34046555px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Noto Sans T Chinese;-inkscape-font-specification:Noto Sans T Chinese"
+       x="837.39441"
+       y="683.83386"
+       id="text4138"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         x="837.39441"
+         y="683.83386"
+         id="tspan4140">象山</tspan></text>
+    <path
+       id="path4194"
+       d="m 721.66085,324.89319 c 0.30052,-0.90156 0.24415,-1.5965 -0.16929,-2.08497 -0.4883,-0.41327 -1.18341,-0.46947 -2.08516,-0.16946 -0.90173,0.30052 -1.70941,0.80767 -2.4232,1.52146 l -2.25409,2.25409 -9.36808,-2.23991 c -0.15026,-0.047 -0.29118,-0.01 -0.4226,0.11257 l -1.80331,1.8033 c -0.10322,0.10341 -0.14559,0.23015 -0.12675,0.38041 0.0282,0.15043 0.10808,0.263 0.23949,0.33822 l 7.15669,3.93048 -3.6488,3.64881 -2.73307,-0.74646 c -0.0186,-0.01 -0.0562,-0.0142 -0.11256,-0.0142 -0.13159,0 -0.23949,0.0422 -0.32404,0.12675 l -1.35235,1.36653 c -0.0939,0.11239 -0.13609,0.22997 -0.12675,0.35188 0.0187,0.15026 0.0797,0.25833 0.18311,0.32421 l 3.55008,2.66234 2.66252,3.55008 c 0.0846,0.1034 0.19729,0.16427 0.33821,0.18329 h 0.0281 c 0.13159,0 0.23949,-0.0422 0.32405,-0.12658 l 1.35235,-1.35235 c 0.12208,-0.13158 0.15959,-0.27718 0.11274,-0.43678 l -0.74664,-2.73306 3.64881,-3.64898 3.93048,7.15687 c 0.0562,0.12207 0.15493,0.19729 0.29586,0.22547 0.028,0.01 0.061,0.014 0.0986,0.014 0.11256,0 0.20178,-0.0282 0.26749,-0.0844 l 1.80366,-1.35236 c 0.15943,-0.13142 0.21579,-0.28634 0.16894,-0.46479 l -2.25393,-9.80503 2.26811,-2.2681 c 0.71361,-0.71396 1.22076,-1.52181 1.52129,-2.42338 z"
+       inkscape:connector-curvature="0"
+       style="fill:#000000" />
+    <text
+       xml:space="preserve"
+       style="font-size:13.34046555px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Noto Sans T Chinese;-inkscape-font-specification:Noto Sans T Chinese"
+       x="31.762791"
+       y="637.18774"
+       id="text4207"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         x="31.762791"
+         y="637.18774"
+         id="tspan4210">丹鳳</tspan></text>
+    <text
+       sodipodi:linespacing="125%"
+       id="text4212"
+       y="602.91016"
+       x="-18.335197"
+       style="font-size:13.34046555px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Noto Sans T Chinese;-inkscape-font-specification:Noto Sans T Chinese"
+       xml:space="preserve"><tspan
+         id="tspan4214"
+         y="602.91016"
+         x="-18.335197"
+         sodipodi:role="line">迴龍</tspan></text>
   </g>
 </svg>
