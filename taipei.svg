@@ -14,7 +14,7 @@
    height="1100"
    id="svg2"
    version="1.1"
-   inkscape:version="0.48.5 r10040"
+   inkscape:version="0.91 r13725"
    sodipodi:docname="taipei.svg"
    inkscape:export-filename="/home/walkingice/Desktop/Art/MRT/taipei.png"
    inkscape:export-xdpi="180"
@@ -30,16 +30,16 @@
      borderopacity="1.0"
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
-     inkscape:zoom="1.5170269"
-     inkscape:cx="78.957009"
-     inkscape:cy="59.290259"
+     inkscape:zoom="1.4142136"
+     inkscape:cx="449.22319"
+     inkscape:cy="357.6816"
      inkscape:document-units="px"
-     inkscape:current-layer="layer3"
+     inkscape:current-layer="layer1"
      showgrid="false"
-     inkscape:window-width="1918"
-     inkscape:window-height="1042"
+     inkscape:window-width="1280"
+     inkscape:window-height="751"
      inkscape:window-x="0"
-     inkscape:window-y="36"
+     inkscape:window-y="1"
      inkscape:window-maximized="1"
      fit-margin-top="20"
      fit-margin-left="20"
@@ -93,69 +93,68 @@ You are able to remove license logo and author's name from the image if you keep
      inkscape:groupmode="layer"
      id="layer1"
      style="display:inline"
-     transform="translate(62.091414,4.5099868)"
-     sodipodi:insensitive="true">
+     transform="translate(62.091414,4.5099868)">
     <path
-       style="fill:none;stroke:#ef2929;stroke-width:8;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       style="fill:none;stroke:#ef2929;stroke-width:8;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        d="m 146.72446,24.029639 27.78573,27.78574 0,83.361441 144.2775,0 100.81103,104.81102 0,476.31156"
        id="path3004"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cccccc" />
     <path
-       style="fill:none;stroke:#4e9a06;stroke-width:8;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       style="fill:none;stroke:#4e9a06;stroke-width:8;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        d="m 420.46037,708.28014 39.04583,74.66889 59.94061,51.07329 0,231.67768"
        id="path3846"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cccc" />
     <path
-       style="fill:none;stroke:#3465a4;stroke-width:8;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
-       d="m 980.34541,519.576 c 0,0 -84.70051,61.83286 -88.94315,64.28235 -4.24265,2.44949 -583.53861,0 -583.53861,0 l -38.5695,27.25579 -47.69752,0 -123.435232,71.26536 0,211.96309"
+       style="fill:none;stroke:#3465a4;stroke-width:8;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 976.6165,481.8208 c 0,0 -80.9716,99.58806 -85.21424,102.03755 -4.24265,2.44949 -583.53861,0 -583.53861,0 l -38.5695,27.25579 -47.69752,0 -123.435232,71.26536 0,211.96309"
        id="path3908"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="csccccc" />
     <path
-       style="fill:none;stroke:#ffc600;stroke-width:8;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
+       style="display:inline;fill:none;stroke:#ffc600;stroke-width:8;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        d="m 119.84431,324.4856 193.2072,139.55703 201.76041,0 0,296.77686 -171.52186,70.14571 0,130.81475"
        id="path3960"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cccccc" />
     <path
-       style="fill:none;stroke:#ffc600;stroke-width:8;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       style="fill:none;stroke:#ffc600;stroke-width:8;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        d="M 314.8971,467.1071 -15.22319,628.20047"
        id="path3965"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cc" />
     <path
-       style="fill:none;stroke:#c17d11;stroke-width:8;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       style="fill:none;stroke:#c17d11;stroke-width:8;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        d="m 977.87521,476.27867 0,-145 -67,-149 -340.02147,0 0,91.76924 61.02147,35.23076 0,50 -19,19 0,404.59186 114,0 0,103.78828 167.57482,0"
        id="path4011"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cccccccccccc" />
     <path
-       style="fill:none;stroke:#bbe48e;stroke-width:8;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       style="fill:none;stroke:#bbe48e;stroke-width:8;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        d="m 312.57729,590.27867 0,120.46447 101,0"
        id="path4059"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="ccc" />
     <path
-       style="fill:none;stroke:#bbe48e;stroke-width:8;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       style="fill:none;stroke:#bbe48e;stroke-width:8;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        d="m 519.44681,991.02229 c -8,0 -71,0 -71,0"
        id="path4061"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cc" />
     <path
-       style="fill:none;stroke:#ff9797;stroke-width:8;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       style="fill:none;stroke:#ff9797;stroke-width:8;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        d="m 322.57729,131.27867 0,-37.000001 56,0"
        id="path4063"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="ccc" />
     <path
-       style="fill:none;stroke:#7ed238;stroke-width:8;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
-       d="m 911.88907,910.2285 c 1.38397,5.16507 39.82884,68.98556 39.82884,68.98556 l -58.42164,58.42174"
+       style="fill:none;stroke:#7ed238;stroke-width:8;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 911.88907,916.59246 c 1.38397,5.16507 39.82884,68.98556 39.82884,68.98556 l -58.42164,58.42178"
        id="path4065"
        inkscape:connector-curvature="0" />
     <path
-       style="fill:#ef2929;fill-opacity:1;stroke:#ef2929;stroke-width:8;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       style="fill:#ef2929;fill-opacity:1;stroke:#ef2929;stroke-width:8;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        d="m 424.45585,709.46424 409.71824,0"
        id="path4109"
        inkscape:connector-curvature="0"
@@ -166,8 +165,7 @@ You are able to remove license logo and author's name from the image if you keep
      id="layer2"
      inkscape:label="nodes"
      style="display:inline"
-     transform="translate(62.091414,4.5099868)"
-     sodipodi:insensitive="true">
+     transform="translate(62.091414,4.5099868)">
     <use
        x="0"
        y="0"
@@ -224,16 +222,13 @@ You are able to remove license logo and author's name from the image if you keep
        transform="translate(4.3770031e-7,77.685661)"
        width="744.09448"
        height="1052.3622" />
-    <path
+    <circle
        transform="matrix(0.80258349,0,0,0.80258349,443.31756,977.43169)"
-       d="m 112.48753,111.5018 a 17.729013,17.729013 0 1 1 -35.458029,0 17.729013,17.729013 0 1 1 35.458029,0 z"
-       sodipodi:ry="17.729013"
-       sodipodi:rx="17.729013"
-       sodipodi:cy="111.5018"
-       sodipodi:cx="94.758514"
        id="path3864"
        style="fill:#4e9a06;fill-opacity:1;stroke:none"
-       sodipodi:type="arc" />
+       cx="94.758514"
+       cy="111.5018"
+       r="17.729013" />
     <use
        x="0"
        y="0"
@@ -354,26 +349,20 @@ You are able to remove license logo and author's name from the image if you keep
        transform="translate(2.0000004,125)"
        width="744.09448"
        height="1052.3622" />
-    <path
-       sodipodi:type="arc"
+    <circle
        style="fill:#ef2929;fill-opacity:1;stroke:none"
        id="path3774"
-       sodipodi:cx="94.758514"
-       sodipodi:cy="111.5018"
-       sodipodi:rx="17.729013"
-       sodipodi:ry="17.729013"
-       d="m 112.48753,111.5018 a 17.729013,17.729013 0 1 1 -35.458029,0 17.729013,17.729013 0 1 1 35.458029,0 z"
-       transform="matrix(0.80258349,0,0,0.80258349,68.448035,-68.575429)" />
-    <path
+       transform="matrix(0.80258349,0,0,0.80258349,68.448035,-68.575429)"
+       cx="94.758514"
+       cy="111.5018"
+       r="17.729013" />
+    <circle
        transform="matrix(0.83441578,0,0,0.83441578,158.54468,-223.8223)"
-       d="m 26.899193,329.75208 a 8.5588341,8.5588341 0 1 1 -17.1176683,0 8.5588341,8.5588341 0 1 1 17.1176683,0 z"
-       sodipodi:ry="8.5588341"
-       sodipodi:rx="8.5588341"
-       sodipodi:cy="329.75208"
-       sodipodi:cx="18.340359"
        id="use3784"
-       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
-       sodipodi:type="arc" />
+       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       cx="18.340359"
+       cy="329.75208"
+       r="8.5588341" />
     <use
        x="0"
        y="0"
@@ -401,26 +390,20 @@ You are able to remove license logo and author's name from the image if you keep
     <g
        id="g3798"
        transform="matrix(0.86808574,0,0,0.86808574,69.494082,-1.9992747)">
-      <path
+      <circle
          transform="translate(-1.5130064,-2.7356926)"
-         d="m 311.78609,162.85481 a 18.951704,18.951704 0 1 1 -37.90341,0 18.951704,18.951704 0 1 1 37.90341,0 z"
-         sodipodi:ry="18.951704"
-         sodipodi:rx="18.951704"
-         sodipodi:cy="162.85481"
-         sodipodi:cx="292.83438"
          id="path3794"
          style="fill:#000000;fill-opacity:1;stroke:none"
-         sodipodi:type="arc" />
-      <path
+         cx="292.83438"
+         cy="162.85481"
+         r="18.951704" />
+      <circle
          transform="matrix(0.60497891,0,0,0.60497891,114.16275,61.595393)"
-         sodipodi:type="arc"
-         style="fill:#000000;fill-opacity:1;stroke:#ffffff;stroke-width:9.91770077;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+         style="fill:#000000;fill-opacity:1;stroke:#ffffff;stroke-width:9.91770077;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
          id="path3796"
-         sodipodi:cx="292.83438"
-         sodipodi:cy="162.85481"
-         sodipodi:rx="18.951704"
-         sodipodi:ry="18.951704"
-         d="m 311.78609,162.85481 a 18.951704,18.951704 0 1 1 -37.90341,0 18.951704,18.951704 0 1 1 37.90341,0 z" />
+         cx="292.83438"
+         cy="162.85481"
+         r="18.951704" />
     </g>
     <use
        x="0"
@@ -430,16 +413,13 @@ You are able to remove license logo and author's name from the image if you keep
        transform="translate(4.3770025e-7,38)"
        width="744.09448"
        height="1052.3622" />
-    <path
-       sodipodi:type="arc"
+    <circle
        style="fill:#3465a4;fill-opacity:1;stroke:none"
        id="path3910"
-       sodipodi:cx="94.758514"
-       sodipodi:cy="111.5018"
-       sodipodi:rx="17.729013"
-       sodipodi:ry="17.729013"
-       d="m 112.48753,111.5018 a 17.729013,17.729013 0 1 1 -35.458029,0 17.729013,17.729013 0 1 1 35.458029,0 z"
-       transform="matrix(0.80258349,0,0,0.80258349,21.66326,806.46516)" />
+       transform="matrix(0.80258349,0,0,0.80258349,21.66326,806.46516)"
+       cx="94.758514"
+       cy="111.5018"
+       r="17.729013" />
     <use
        x="0"
        y="0"
@@ -581,7 +561,7 @@ You are able to remove license logo and author's name from the image if you keep
        y="0"
        xlink:href="#use3944"
        id="use3946"
-       transform="translate(57.296624,-14.627418)"
+       transform="translate(54.98948,-21.878443)"
        width="744.09448"
        height="1052.3622" />
     <use
@@ -589,37 +569,23 @@ You are able to remove license logo and author's name from the image if you keep
        y="0"
        xlink:href="#use3946"
        id="use3948"
-       transform="translate(29.462824,-21.17767)"
+       transform="translate(34.406704,-40.294009)"
        width="744.09448"
        height="1052.3622" />
-    <use
-       x="0"
-       y="0"
-       xlink:href="#path3910"
-       id="use3950"
-       transform="translate(877.70748,-375.02396)"
-       width="744.09448"
-       height="1052.3622" />
-    <path
+    <circle
        transform="matrix(0.80258349,0,0,0.80258349,37.448036,230.58604)"
-       d="m 112.48753,111.5018 a 17.729013,17.729013 0 1 1 -35.458029,0 17.729013,17.729013 0 1 1 35.458029,0 z"
-       sodipodi:ry="17.729013"
-       sodipodi:rx="17.729013"
-       sodipodi:cy="111.5018"
-       sodipodi:cx="94.758514"
        id="path3956"
        style="fill:#ffc600;fill-opacity:1;stroke:none"
-       sodipodi:type="arc" />
-    <path
+       cx="94.758514"
+       cy="111.5018"
+       r="17.729013" />
+    <circle
        transform="matrix(0.80258349,0,0,0.80258349,-90.322484,538.09656)"
-       d="m 112.48753,111.5018 a 17.729013,17.729013 0 1 1 -35.458029,0 17.729013,17.729013 0 1 1 35.458029,0 z"
-       sodipodi:ry="17.729013"
-       sodipodi:rx="17.729013"
-       sodipodi:cy="111.5018"
-       sodipodi:cx="94.758514"
        id="path3958"
        style="fill:#ffc600;fill-opacity:1;stroke:none"
-       sodipodi:type="arc" />
+       cx="94.758514"
+       cy="111.5018"
+       r="17.729013" />
     <use
        x="0"
        y="0"
@@ -633,7 +599,7 @@ You are able to remove license logo and author's name from the image if you keep
        y="0"
        xlink:href="#use3834"
        id="use3969"
-       transform="translate(-102.53048,0.82983373)"
+       transform="translate(-106.53048,1.0798337)"
        width="744.09448"
        height="1052.3622" />
     <use
@@ -732,16 +698,13 @@ You are able to remove license logo and author's name from the image if you keep
        transform="translate(4.3770031e-7,41.362939)"
        width="744.09448"
        height="1052.3622" />
-    <path
-       sodipodi:type="arc"
-       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+    <circle
+       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        id="use3997"
-       sodipodi:cx="18.340359"
-       sodipodi:cy="329.75208"
-       sodipodi:rx="8.5588341"
-       sodipodi:ry="8.5588341"
-       d="m 26.899193,329.75208 a 8.5588341,8.5588341 0 1 1 -17.1176683,0 8.5588341,8.5588341 0 1 1 17.1176683,0 z"
-       transform="matrix(0.83441578,0,0,0.83441578,379.86933,534.45843)" />
+       transform="matrix(0.83441578,0,0,0.83441578,379.86933,534.45843)"
+       cx="18.340359"
+       cy="329.75208"
+       r="8.5588341" />
     <use
        x="0"
        y="0"
@@ -766,24 +729,13 @@ You are able to remove license logo and author's name from the image if you keep
        transform="translate(357.38481,333.68331)"
        width="744.09448"
        height="1052.3622" />
-    <path
-       sodipodi:type="arc"
+    <circle
        style="fill:#c17d11;fill-opacity:1;stroke:none"
        id="path4005"
-       sodipodi:cx="94.758514"
-       sodipodi:cy="111.5018"
-       sodipodi:rx="17.729013"
-       sodipodi:ry="17.729013"
-       d="m 112.48753,111.5018 a 17.729013,17.729013 0 1 1 -35.458029,0 17.729013,17.729013 0 1 1 35.458029,0 z"
-       transform="matrix(0.80258349,0,0,0.80258349,822.83582,796.40672)" />
-    <use
-       x="0"
-       y="0"
-       xlink:href="#path4005"
-       id="use4007"
-       transform="translate(76.534924,-423.56349)"
-       width="744.09448"
-       height="1052.3622" />
+       transform="matrix(0.80258349,0,0,0.80258349,822.83582,796.40672)"
+       cx="94.758514"
+       cy="111.5018"
+       r="17.729013" />
     <use
        x="0"
        y="0"
@@ -949,29 +901,23 @@ You are able to remove license logo and author's name from the image if you keep
        y="0"
        xlink:href="#use4051"
        id="use4053"
-       transform="translate(-1.8012706,64.014221)"
+       transform="translate(0.06318357,76.133173)"
        width="744.09448"
        height="1052.3622" />
-    <path
+    <circle
        transform="matrix(0.80258349,0,0,0.80258349,306.5313,3.3656963)"
-       d="m 112.48753,111.5018 a 17.729013,17.729013 0 1 1 -35.458029,0 17.729013,17.729013 0 1 1 35.458029,0 z"
-       sodipodi:ry="17.729013"
-       sodipodi:rx="17.729013"
-       sodipodi:cy="111.5018"
-       sodipodi:cx="94.758514"
        id="path4055"
        style="fill:#ff9797;fill-opacity:1;stroke:none"
-       sodipodi:type="arc" />
-    <path
-       sodipodi:type="arc"
+       cx="94.758514"
+       cy="111.5018"
+       r="17.729013" />
+    <circle
        style="fill:#bbe48e;fill-opacity:1;stroke:none"
        id="path4057"
-       sodipodi:cx="94.758514"
-       sodipodi:cy="111.5018"
-       sodipodi:rx="17.729013"
-       sodipodi:ry="17.729013"
-       d="m 112.48753,111.5018 a 17.729013,17.729013 0 1 1 -35.458029,0 17.729013,17.729013 0 1 1 35.458029,0 z"
-       transform="matrix(0.80258349,0,0,0.80258349,373.92059,898.97836)" />
+       transform="matrix(0.80258349,0,0,0.80258349,373.92059,898.97836)"
+       cx="94.758514"
+       cy="111.5018"
+       r="17.729013" />
     <use
        x="0"
        y="0"
@@ -985,7 +931,7 @@ You are able to remove license logo and author's name from the image if you keep
        y="0"
        xlink:href="#use4027"
        id="use4069"
-       transform="translate(71.648964,27.357968)"
+       transform="translate(71.648964,33.721929)"
        width="744.09448"
        height="1052.3622" />
     <use
@@ -1012,12 +958,6 @@ You are able to remove license logo and author's name from the image if you keep
        transform="translate(-35,34)"
        width="744.09448"
        height="1052.3622" />
-    <path
-       style="font-size:medium;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#babdb6;fill-opacity:1;stroke:none;stroke-width:3;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Sans;-inkscape-font-specification:Sans"
-       d="m 970.64149,437.85399 c -8.19172,0 -14.84375,6.65203 -14.84375,14.84375 l 0,73.84375 c 0,8.19172 6.65203,14.8125 14.84375,14.8125 l 9.14613,0 c 8.19172,0 14.84375,-6.62078 14.84375,-14.8125 l 0,-73.84375 c 0,-8.19172 -6.65203,-14.84375 -14.84375,-14.84375 z m 0,3 9.14613,0 c 6.58161,0 11.84375,5.26214 11.84375,11.84375 l 0,73.84375 c 0,6.58161 -5.26214,11.8125 -11.84375,11.8125 l -9.14613,0 c -6.58161,0 -11.84375,-5.23089 -11.84375,-11.8125 l 0,-73.84375 c 0,-6.58161 5.26214,-11.84375 11.84375,-11.84375 z"
-       id="rect4489"
-       inkscape:connector-curvature="0"
-       sodipodi:nodetypes="ssssssssssssssssss" />
     <use
        height="1052.3622"
        width="744.09448"
@@ -1050,16 +990,13 @@ You are able to remove license logo and author's name from the image if you keep
        transform="translate(99.032334,123.99878)"
        width="744.09448"
        height="1052.3622" />
-    <path
+    <circle
        transform="matrix(0.80258349,0,0,0.80258349,759.57485,617.85706)"
-       d="m 112.48753,111.5018 a 17.729013,17.729013 0 1 1 -35.458029,0 17.729013,17.729013 0 1 1 35.458029,0 z"
-       sodipodi:ry="17.729013"
-       sodipodi:rx="17.729013"
-       sodipodi:cy="111.5018"
-       sodipodi:cx="94.758514"
        id="path4128"
        style="fill:#ef2929;fill-opacity:1;stroke:none"
-       sodipodi:type="arc" />
+       cx="94.758514"
+       cy="111.5018"
+       r="17.729013" />
     <use
        height="1052.3622"
        width="744.09448"
@@ -1076,20 +1013,27 @@ You are able to remove license logo and author's name from the image if you keep
        transform="translate(-100.68747,51.112045)"
        width="744.09448"
        height="1052.3622" />
+    <use
+       height="1052.3622"
+       width="744.09448"
+       transform="translate(462.43168,-105.71976)"
+       id="use4522"
+       xlink:href="#use3932"
+       y="0"
+       x="0" />
   </g>
   <g
      inkscape:groupmode="layer"
      id="layer3"
      inkscape:label="chinese"
      style="display:inline"
-     transform="translate(62.091414,4.5099868)"
-     sodipodi:insensitive="true">
+     transform="translate(62.091414,4.5099868)">
     <text
        sodipodi:linespacing="125%"
        id="text3812"
        y="54.885101"
        x="204.55974"
-       style="font-size:13.34046555px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Noto Sans T Chinese;-inkscape-font-specification:Noto Sans T Chinese"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.5px;line-height:125%;font-family:'Noto Sans CJK TC';-inkscape-font-specification:'Noto Sans CJK TC';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;fill:#000000;fill-opacity:1;stroke:none;"
        xml:space="preserve"><tspan
          y="54.885101"
          x="204.55974"
@@ -1097,7 +1041,7 @@ You are able to remove license logo and author's name from the image if you keep
          sodipodi:role="line">紅樹林</tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:13.34046555px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Noto Sans T Chinese;-inkscape-font-specification:Noto Sans T Chinese"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.75px;line-height:125%;font-family:'Noto Sans CJK TC';-inkscape-font-specification:'Noto Sans CJK TC';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;fill:#000000;fill-opacity:1;stroke:none;"
        x="113.47697"
        y="21.552372"
        id="text3820"
@@ -1111,7 +1055,7 @@ You are able to remove license logo and author's name from the image if you keep
        id="text4077"
        y="92.970161"
        x="197.83617"
-       style="font-size:13.34046555px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Noto Sans T Chinese;-inkscape-font-specification:Noto Sans T Chinese"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.5px;line-height:125%;font-family:'Noto Sans CJK TC';-inkscape-font-specification:'Noto Sans CJK TC';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;fill:#000000;fill-opacity:1;stroke:none;"
        xml:space="preserve"><tspan
          y="92.970161"
          x="197.83617"
@@ -1119,7 +1063,7 @@ You are able to remove license logo and author's name from the image if you keep
          sodipodi:role="line">竹圍</tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:13.34046555px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Noto Sans T Chinese;-inkscape-font-specification:Noto Sans T Chinese"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.5px;line-height:125%;font-family:'Noto Sans CJK TC';-inkscape-font-specification:'Noto Sans CJK TC';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;fill:#000000;fill-opacity:1;stroke:none;"
        x="170.15892"
        y="156.90996"
        id="text4081"
@@ -1133,7 +1077,7 @@ You are able to remove license logo and author's name from the image if you keep
        id="text4085"
        y="157.07004"
        x="225.8736"
-       style="font-size:13.34046555px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Noto Sans T Chinese;-inkscape-font-specification:Noto Sans T Chinese"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.5px;line-height:125%;font-family:'Noto Sans CJK TC';-inkscape-font-specification:'Noto Sans CJK TC';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;fill:#000000;fill-opacity:1;stroke:none;"
        xml:space="preserve"><tspan
          y="157.07004"
          x="225.8736"
@@ -1141,7 +1085,7 @@ You are able to remove license logo and author's name from the image if you keep
          sodipodi:role="line">忠義</tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:13.34046555px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Noto Sans T Chinese;-inkscape-font-specification:Noto Sans T Chinese"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.5px;line-height:125%;font-family:'Noto Sans CJK TC';-inkscape-font-specification:'Noto Sans CJK TC';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;fill:#000000;fill-opacity:1;stroke:none;"
        x="282.5683"
        y="156.96332"
        id="text4089"
@@ -1155,7 +1099,7 @@ You are able to remove license logo and author's name from the image if you keep
        id="text4093"
        y="163.86102"
        x="374.81863"
-       style="font-size:13.34046555px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Noto Sans T Chinese;-inkscape-font-specification:Noto Sans T Chinese"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.5px;line-height:125%;font-family:'Noto Sans CJK TC';-inkscape-font-specification:'Noto Sans CJK TC';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;fill:#000000;fill-opacity:1;stroke:none;"
        xml:space="preserve"><tspan
          y="163.86102"
          x="374.81863"
@@ -1163,7 +1107,7 @@ You are able to remove license logo and author's name from the image if you keep
          sodipodi:role="line">奇岩</tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:13.34046555px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Noto Sans T Chinese;-inkscape-font-specification:Noto Sans T Chinese"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.75px;line-height:125%;font-family:'Noto Sans CJK TC';-inkscape-font-specification:'Noto Sans CJK TC';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;fill:#000000;fill-opacity:1;stroke:none;"
        x="414.397"
        y="80.949341"
        id="text4097"
@@ -1174,7 +1118,7 @@ You are able to remove license logo and author's name from the image if you keep
          y="80.949341">新北投</tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:13.34046555px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Noto Sans T Chinese;-inkscape-font-specification:Noto Sans T Chinese"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.5px;line-height:125%;font-family:'Noto Sans CJK TC';-inkscape-font-specification:'Noto Sans CJK TC';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;fill:#000000;fill-opacity:1;stroke:none;"
        x="406.02725"
        y="193.26662"
        id="text4101"
@@ -1188,7 +1132,7 @@ You are able to remove license logo and author's name from the image if you keep
        id="text4105"
        y="225.13667"
        x="428.33923"
-       style="font-size:13.34046555px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Noto Sans T Chinese;-inkscape-font-specification:Noto Sans T Chinese"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.5px;line-height:125%;font-family:'Noto Sans CJK TC';-inkscape-font-specification:'Noto Sans CJK TC';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;fill:#000000;fill-opacity:1;stroke:none;"
        xml:space="preserve"><tspan
          y="225.13667"
          x="428.33923"
@@ -1196,7 +1140,7 @@ You are able to remove license logo and author's name from the image if you keep
          sodipodi:role="line">石牌</tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:13.34046555px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Noto Sans T Chinese;-inkscape-font-specification:Noto Sans T Chinese"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.5px;line-height:125%;font-family:'Noto Sans CJK TC';-inkscape-font-specification:'Noto Sans CJK TC';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;fill:#000000;fill-opacity:1;stroke:none;"
        x="392.80371"
        y="259.47122"
        id="text4109"
@@ -1210,7 +1154,7 @@ You are able to remove license logo and author's name from the image if you keep
        id="text4113"
        y="302.43317"
        x="393.52411"
-       style="font-size:13.34046555px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Noto Sans T Chinese;-inkscape-font-specification:Noto Sans T Chinese"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.5px;line-height:125%;font-family:'Noto Sans CJK TC';-inkscape-font-specification:'Noto Sans CJK TC';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;fill:#000000;fill-opacity:1;stroke:none;"
        xml:space="preserve"><tspan
          y="302.43317"
          x="393.52411"
@@ -1218,7 +1162,7 @@ You are able to remove license logo and author's name from the image if you keep
          sodipodi:role="line">芝山</tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:13.34046555px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Noto Sans T Chinese;-inkscape-font-specification:Noto Sans T Chinese"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.5px;line-height:125%;font-family:'Noto Sans CJK TC';-inkscape-font-specification:'Noto Sans CJK TC';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;fill:#000000;fill-opacity:1;stroke:none;"
        x="392.69699"
        y="342.03116"
        id="text4117"
@@ -1232,7 +1176,7 @@ You are able to remove license logo and author's name from the image if you keep
        id="text4121"
        y="383.80072"
        x="392.89709"
-       style="font-size:13.34046555px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Noto Sans T Chinese;-inkscape-font-specification:Noto Sans T Chinese"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.5px;line-height:125%;font-family:'Noto Sans CJK TC';-inkscape-font-specification:'Noto Sans CJK TC';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;fill:#000000;fill-opacity:1;stroke:none;"
        xml:space="preserve"><tspan
          y="383.80072"
          x="392.89709"
@@ -1240,7 +1184,7 @@ You are able to remove license logo and author's name from the image if you keep
          sodipodi:role="line">劍潭</tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:13.34046555px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Noto Sans T Chinese;-inkscape-font-specification:Noto Sans T Chinese"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.5px;line-height:125%;font-family:'Noto Sans CJK TC';-inkscape-font-specification:'Noto Sans CJK TC';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;fill:#000000;fill-opacity:1;stroke:none;"
        x="393.52411"
        y="415.65607"
        id="text4125"
@@ -1251,7 +1195,7 @@ You are able to remove license logo and author's name from the image if you keep
          y="415.65607">圓山</tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:13.34046555px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Noto Sans T Chinese;-inkscape-font-specification:Noto Sans T Chinese"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.75px;line-height:125%;font-family:'Noto Sans CJK TC';-inkscape-font-specification:'Noto Sans CJK TC';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;fill:#000000;fill-opacity:1;stroke:none;"
        x="384.0563"
        y="444.10855"
        id="text4133"
@@ -1265,7 +1209,7 @@ You are able to remove license logo and author's name from the image if you keep
        id="text4137"
        y="444.10855"
        x="478.69888"
-       style="font-size:13.34046555px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Noto Sans T Chinese;-inkscape-font-specification:Noto Sans T Chinese"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.5px;line-height:125%;font-family:'Noto Sans CJK TC';-inkscape-font-specification:'Noto Sans CJK TC';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;fill:#000000;fill-opacity:1;stroke:none;"
        xml:space="preserve"><tspan
          y="444.10855"
          x="478.69888"
@@ -1276,7 +1220,7 @@ You are able to remove license logo and author's name from the image if you keep
        id="text4141"
        y="124.26662"
        x="352.71375"
-       style="font-size:13.34046555px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Noto Sans T Chinese;-inkscape-font-specification:Noto Sans T Chinese"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.75px;line-height:125%;font-family:'Noto Sans CJK TC';-inkscape-font-specification:'Noto Sans CJK TC';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;fill:#000000;fill-opacity:1;stroke:none;"
        xml:space="preserve"><tspan
          y="124.26662"
          x="352.71375"
@@ -1287,7 +1231,7 @@ You are able to remove license logo and author's name from the image if you keep
        id="text4145"
        y="503.06775"
        x="392.85709"
-       style="font-size:13.34046555px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Noto Sans T Chinese;-inkscape-font-specification:Noto Sans T Chinese"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.5px;line-height:125%;font-family:'Noto Sans CJK TC';-inkscape-font-specification:'Noto Sans CJK TC';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;fill:#000000;fill-opacity:1;stroke:none;"
        xml:space="preserve"><tspan
          y="503.06775"
          x="392.85709"
@@ -1295,7 +1239,7 @@ You are able to remove license logo and author's name from the image if you keep
          sodipodi:role="line">雙連</tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:13.34046555px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Noto Sans T Chinese;-inkscape-font-specification:Noto Sans T Chinese"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.5px;line-height:125%;font-family:'Noto Sans CJK TC';-inkscape-font-specification:'Noto Sans CJK TC';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;fill:#000000;fill-opacity:1;stroke:none;"
        x="393.52411"
        y="539.96722"
        id="text4149"
@@ -1309,7 +1253,7 @@ You are able to remove license logo and author's name from the image if you keep
        id="text4153"
        y="573.79565"
        x="376.55664"
-       style="font-size:13.34046555px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Noto Sans T Chinese;-inkscape-font-specification:Noto Sans T Chinese"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.75px;line-height:125%;font-family:'Noto Sans CJK TC';-inkscape-font-specification:'Noto Sans CJK TC';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;fill:#000000;fill-opacity:1;stroke:none;"
        xml:space="preserve"><tspan
          y="573.79565"
          x="376.55664"
@@ -1317,7 +1261,7 @@ You are able to remove license logo and author's name from the image if you keep
          sodipodi:role="line">台北車站</tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:13.34046555px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Noto Sans T Chinese;-inkscape-font-specification:Noto Sans T Chinese"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.5px;line-height:125%;font-family:'Noto Sans CJK TC';-inkscape-font-specification:'Noto Sans CJK TC';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;fill:#000000;fill-opacity:1;stroke:none;"
        x="377.51663"
        y="650.19946"
        id="text4157"
@@ -1331,7 +1275,7 @@ You are able to remove license logo and author's name from the image if you keep
        id="text4161"
        y="693.2099"
        x="372.45789"
-       style="font-size:13.34046555px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Noto Sans T Chinese;-inkscape-font-specification:Noto Sans T Chinese"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.75px;line-height:125%;font-family:'Noto Sans CJK TC';-inkscape-font-specification:'Noto Sans CJK TC';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;fill:#000000;fill-opacity:1;stroke:none;"
        xml:space="preserve"><tspan
          y="693.2099"
          x="372.45789"
@@ -1339,7 +1283,7 @@ You are able to remove license logo and author's name from the image if you keep
          sodipodi:role="line">中正紀念堂</tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:13.34046555px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Noto Sans T Chinese;-inkscape-font-specification:Noto Sans T Chinese"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.5px;line-height:125%;font-family:'Noto Sans CJK TC';-inkscape-font-specification:'Noto Sans CJK TC';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;fill:#000000;fill-opacity:1;stroke:none;"
        x="426.11337"
        y="772.35376"
        id="text4165"
@@ -1353,7 +1297,7 @@ You are able to remove license logo and author's name from the image if you keep
        id="text4169"
        y="810.3089"
        x="534.9032"
-       style="font-size:13.34046555px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Noto Sans T Chinese;-inkscape-font-specification:Noto Sans T Chinese"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.5px;line-height:125%;font-family:'Noto Sans CJK TC';-inkscape-font-specification:'Noto Sans CJK TC';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;fill:#000000;fill-opacity:1;stroke:none;"
        xml:space="preserve"><tspan
          y="810.3089"
          x="534.9032"
@@ -1361,7 +1305,7 @@ You are able to remove license logo and author's name from the image if you keep
          sodipodi:role="line">台電大樓</tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:13.34046555px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Noto Sans T Chinese;-inkscape-font-specification:Noto Sans T Chinese"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.5px;line-height:125%;font-family:'Noto Sans CJK TC';-inkscape-font-specification:'Noto Sans CJK TC';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;fill:#000000;fill-opacity:1;stroke:none;"
        x="545.3288"
        y="838.65198"
        id="text4173"
@@ -1375,7 +1319,7 @@ You are able to remove license logo and author's name from the image if you keep
        id="text4177"
        y="879.60175"
        x="545.54224"
-       style="font-size:13.34046555px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Noto Sans T Chinese;-inkscape-font-specification:Noto Sans T Chinese"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.5px;line-height:125%;font-family:'Noto Sans CJK TC';-inkscape-font-specification:'Noto Sans CJK TC';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;fill:#000000;fill-opacity:1;stroke:none;"
        xml:space="preserve"><tspan
          y="879.60175"
          x="545.54224"
@@ -1383,7 +1327,7 @@ You are able to remove license logo and author's name from the image if you keep
          sodipodi:role="line">萬隆</tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:13.34046555px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Noto Sans T Chinese;-inkscape-font-specification:Noto Sans T Chinese"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.5px;line-height:125%;font-family:'Noto Sans CJK TC';-inkscape-font-specification:'Noto Sans CJK TC';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;fill:#000000;fill-opacity:1;stroke:none;"
        x="545.54224"
        y="919.94489"
        id="text4181"
@@ -1397,7 +1341,7 @@ You are able to remove license logo and author's name from the image if you keep
        id="text4185"
        y="951.35913"
        x="552.26587"
-       style="font-size:13.34046555px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Noto Sans T Chinese;-inkscape-font-specification:Noto Sans T Chinese"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.5px;line-height:125%;font-family:'Noto Sans CJK TC';-inkscape-font-specification:'Noto Sans CJK TC';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;fill:#000000;fill-opacity:1;stroke:none;"
        xml:space="preserve"><tspan
          y="951.35913"
          x="552.26587"
@@ -1405,7 +1349,7 @@ You are able to remove license logo and author's name from the image if you keep
          sodipodi:role="line">大坪林</tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:13.34046555px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Noto Sans T Chinese;-inkscape-font-specification:Noto Sans T Chinese"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.75px;line-height:125%;font-family:'Noto Sans CJK TC';-inkscape-font-specification:'Noto Sans CJK TC';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;fill:#000000;fill-opacity:1;stroke:none;"
        x="553.59558"
        y="989.94489"
        id="text4189"
@@ -1419,7 +1363,7 @@ You are able to remove license logo and author's name from the image if you keep
        id="text4193"
        y="1032.2378"
        x="565.69971"
-       style="font-size:13.34046555px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Noto Sans T Chinese;-inkscape-font-specification:Noto Sans T Chinese"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.5px;line-height:125%;font-family:'Noto Sans CJK TC';-inkscape-font-specification:'Noto Sans CJK TC';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;fill:#000000;fill-opacity:1;stroke:none;"
        xml:space="preserve"><tspan
          y="1032.2378"
          x="565.69971"
@@ -1427,7 +1371,7 @@ You are able to remove license logo and author's name from the image if you keep
          sodipodi:role="line">新店區公所</tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:13.34046555px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Noto Sans T Chinese;-inkscape-font-specification:Noto Sans T Chinese"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.75px;line-height:125%;font-family:'Noto Sans CJK TC';-inkscape-font-specification:'Noto Sans CJK TC';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;fill:#000000;fill-opacity:1;stroke:none;"
        x="484.68896"
        y="1069.6521"
        id="text4197"
@@ -1441,7 +1385,7 @@ You are able to remove license logo and author's name from the image if you keep
        id="text4201"
        y="966.7525"
        x="443.86887"
-       style="font-size:13.34046555px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Noto Sans T Chinese;-inkscape-font-specification:Noto Sans T Chinese"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.75px;line-height:125%;font-family:'Noto Sans CJK TC';-inkscape-font-specification:'Noto Sans CJK TC';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;fill:#000000;fill-opacity:1;stroke:none;"
        xml:space="preserve"><tspan
          y="966.7525"
          x="443.86887"
@@ -1449,47 +1393,47 @@ You are able to remove license logo and author's name from the image if you keep
          sodipodi:role="line">小碧潭</tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:13.34046555px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Noto Sans T Chinese;-inkscape-font-specification:Noto Sans T Chinese"
-       x="933.40741"
-       y="479.01749"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.75px;line-height:125%;font-family:'Noto Sans CJK TC';-inkscape-font-specification:'Noto Sans CJK TC';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;fill:#000000;fill-opacity:1;stroke:none;"
+       x="934.33966"
+       y="470.62744"
        id="text4205"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          id="tspan4207"
-         x="933.40741"
-         y="479.01749">南港</tspan><tspan
+         x="934.33966"
+         y="470.62744">南港</tspan><tspan
          sodipodi:role="line"
-         x="933.40741"
-         y="495.69305"
+         x="934.33966"
+         y="487.30301"
          id="tspan4209">展覽館</tspan></text>
     <text
        sodipodi:linespacing="125%"
        id="text4211"
-       y="566.3728"
-       x="960.04303"
-       style="font-size:13.34046555px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Noto Sans T Chinese;-inkscape-font-specification:Noto Sans T Chinese"
+       y="539.67584"
+       x="963.00934"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.5px;line-height:125%;font-family:'Noto Sans CJK TC';-inkscape-font-specification:'Noto Sans CJK TC';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;fill:#000000;fill-opacity:1;stroke:none;"
        xml:space="preserve"><tspan
          id="tspan4215"
-         y="566.3728"
-         x="960.04303"
+         y="539.67584"
+         x="963.00934"
          sodipodi:role="line">南港</tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:13.34046555px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Noto Sans T Chinese;-inkscape-font-specification:Noto Sans T Chinese"
-       x="919.77527"
-       y="595.32257"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.5px;line-height:125%;font-family:'Noto Sans CJK TC';-inkscape-font-specification:'Noto Sans CJK TC';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;fill:#000000;fill-opacity:1;stroke:none;"
+       x="925.37836"
+       y="581.80933"
        id="text4219"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
-         x="919.77527"
-         y="595.32257"
+         x="925.37836"
+         y="581.80933"
          id="tspan4221">昆陽</tspan></text>
     <text
        sodipodi:linespacing="125%"
        id="text4223"
        y="610.26013"
        x="860.45453"
-       style="font-size:13.34046555px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Noto Sans T Chinese;-inkscape-font-specification:Noto Sans T Chinese"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.5px;line-height:125%;font-family:'Noto Sans CJK TC';-inkscape-font-specification:'Noto Sans CJK TC';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;fill:#000000;fill-opacity:1;stroke:none;"
        xml:space="preserve"><tspan
          id="tspan4225"
          y="610.26013"
@@ -1497,7 +1441,7 @@ You are able to remove license logo and author's name from the image if you keep
          sodipodi:role="line">後山埤</tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:13.34046555px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Noto Sans T Chinese;-inkscape-font-specification:Noto Sans T Chinese"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.5px;line-height:125%;font-family:'Noto Sans CJK TC';-inkscape-font-specification:'Noto Sans CJK TC';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;fill:#000000;fill-opacity:1;stroke:none;"
        x="806.14825"
        y="610.26013"
        id="text4227"
@@ -1511,7 +1455,7 @@ You are able to remove license logo and author's name from the image if you keep
        id="text4231"
        y="610.36688"
        x="756.77179"
-       style="font-size:13.34046555px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Noto Sans T Chinese;-inkscape-font-specification:Noto Sans T Chinese"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.5px;line-height:125%;font-family:'Noto Sans CJK TC';-inkscape-font-specification:'Noto Sans CJK TC';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;fill:#000000;fill-opacity:1;stroke:none;"
        xml:space="preserve"><tspan
          id="tspan4233"
          y="610.36688"
@@ -1519,7 +1463,7 @@ You are able to remove license logo and author's name from the image if you keep
          sodipodi:role="line">市政府</tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:13.34046555px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Noto Sans T Chinese;-inkscape-font-specification:Noto Sans T Chinese"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.5px;line-height:125%;font-family:'Noto Sans CJK TC';-inkscape-font-specification:'Noto Sans CJK TC';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;fill:#000000;fill-opacity:1;stroke:none;"
        x="715.74512"
        y="610.1134"
        id="text4235"
@@ -1537,7 +1481,7 @@ You are able to remove license logo and author's name from the image if you keep
        id="text4239"
        y="610.26013"
        x="663.2619"
-       style="font-size:13.34046555px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Noto Sans T Chinese;-inkscape-font-specification:Noto Sans T Chinese"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.5px;line-height:125%;font-family:'Noto Sans CJK TC';-inkscape-font-specification:'Noto Sans CJK TC';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;fill:#000000;fill-opacity:1;stroke:none;"
        xml:space="preserve"><tspan
          id="tspan4241"
          y="610.26013"
@@ -1545,7 +1489,7 @@ You are able to remove license logo and author's name from the image if you keep
          sodipodi:role="line">忠孝敦化</tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:13.34046555px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Noto Sans T Chinese;-inkscape-font-specification:Noto Sans T Chinese"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.75px;line-height:125%;font-family:'Noto Sans CJK TC';-inkscape-font-specification:'Noto Sans CJK TC';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;fill:#000000;fill-opacity:1;stroke:none;"
        x="651.36194"
        y="559.26013"
        id="text4243"
@@ -1559,7 +1503,7 @@ You are able to remove license logo and author's name from the image if you keep
        id="text4247"
        y="561.31036"
        x="479.22247"
-       style="font-size:13.34046555px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Noto Sans T Chinese;-inkscape-font-specification:Noto Sans T Chinese"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.75px;line-height:125%;font-family:'Noto Sans CJK TC';-inkscape-font-specification:'Noto Sans CJK TC';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;fill:#000000;fill-opacity:1;stroke:none;"
        xml:space="preserve"><tspan
          id="tspan4249"
          y="561.31036"
@@ -1567,7 +1511,7 @@ You are able to remove license logo and author's name from the image if you keep
          sodipodi:role="line">忠孝新生</tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:13.34046555px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Noto Sans T Chinese;-inkscape-font-specification:Noto Sans T Chinese"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.5px;line-height:125%;font-family:'Noto Sans CJK TC';-inkscape-font-specification:'Noto Sans CJK TC';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;fill:#000000;fill-opacity:1;stroke:none;"
        x="465.1647"
        y="606.26013"
        id="text4251"
@@ -1581,7 +1525,7 @@ You are able to remove license logo and author's name from the image if you keep
        id="text4255"
        y="562.3208"
        x="309.47119"
-       style="font-size:13.34046555px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Noto Sans T Chinese;-inkscape-font-specification:Noto Sans T Chinese"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.75px;line-height:125%;font-family:'Noto Sans CJK TC';-inkscape-font-specification:'Noto Sans CJK TC';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;fill:#000000;fill-opacity:1;stroke:none;"
        xml:space="preserve"><tspan
          id="tspan4257"
          y="562.3208"
@@ -1589,7 +1533,7 @@ You are able to remove license logo and author's name from the image if you keep
          sodipodi:role="line">西門</tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:13.34046555px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Noto Sans T Chinese;-inkscape-font-specification:Noto Sans T Chinese"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.5px;line-height:125%;font-family:'Noto Sans CJK TC';-inkscape-font-specification:'Noto Sans CJK TC';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;fill:#000000;fill-opacity:1;stroke:none;"
        x="255.65051"
        y="595.97766"
        id="text4259"
@@ -1603,7 +1547,7 @@ You are able to remove license logo and author's name from the image if you keep
        id="text4263"
        y="601.56342"
        x="197.4337"
-       style="font-size:13.34046555px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Noto Sans T Chinese;-inkscape-font-specification:Noto Sans T Chinese"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.5px;line-height:125%;font-family:'Noto Sans CJK TC';-inkscape-font-specification:'Noto Sans CJK TC';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;fill:#000000;fill-opacity:1;stroke:none;"
        xml:space="preserve"><tspan
          id="tspan4265"
          y="601.56342"
@@ -1611,7 +1555,7 @@ You are able to remove license logo and author's name from the image if you keep
          sodipodi:role="line">江子翠</tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:13.34046555px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Noto Sans T Chinese;-inkscape-font-specification:Noto Sans T Chinese"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.5px;line-height:125%;font-family:'Noto Sans CJK TC';-inkscape-font-specification:'Noto Sans CJK TC';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;fill:#000000;fill-opacity:1;stroke:none;"
        x="202.66791"
        y="646.76013"
        id="text4267"
@@ -1625,7 +1569,7 @@ You are able to remove license logo and author's name from the image if you keep
        id="text4271"
        y="671.76013"
        x="163.1946"
-       style="font-size:13.34046555px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Noto Sans T Chinese;-inkscape-font-specification:Noto Sans T Chinese"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.5px;line-height:125%;font-family:'Noto Sans CJK TC';-inkscape-font-specification:'Noto Sans CJK TC';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;fill:#000000;fill-opacity:1;stroke:none;"
        xml:space="preserve"><tspan
          id="tspan4273"
          y="671.76013"
@@ -1633,7 +1577,7 @@ You are able to remove license logo and author's name from the image if you keep
          sodipodi:role="line">板橋</tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:13.34046555px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Noto Sans T Chinese;-inkscape-font-specification:Noto Sans T Chinese"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.5px;line-height:125%;font-family:'Noto Sans CJK TC';-inkscape-font-specification:'Noto Sans CJK TC';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;fill:#000000;fill-opacity:1;stroke:none;"
        x="126.1479"
        y="696.26013"
        id="text4275"
@@ -1647,7 +1591,7 @@ You are able to remove license logo and author's name from the image if you keep
        id="text4279"
        y="743.76013"
        x="139.23489"
-       style="font-size:13.34046555px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Noto Sans T Chinese;-inkscape-font-specification:Noto Sans T Chinese"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.5px;line-height:125%;font-family:'Noto Sans CJK TC';-inkscape-font-specification:'Noto Sans CJK TC';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;fill:#000000;fill-opacity:1;stroke:none;"
        xml:space="preserve"><tspan
          id="tspan4281"
          y="743.76013"
@@ -1655,7 +1599,7 @@ You are able to remove license logo and author's name from the image if you keep
          sodipodi:role="line">亞東醫院</tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:13.34046555px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Noto Sans T Chinese;-inkscape-font-specification:Noto Sans T Chinese"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.5px;line-height:125%;font-family:'Noto Sans CJK TC';-inkscape-font-specification:'Noto Sans CJK TC';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;fill:#000000;fill-opacity:1;stroke:none;"
        x="126.1479"
        y="795.76013"
        id="text4283"
@@ -1669,7 +1613,7 @@ You are able to remove license logo and author's name from the image if you keep
        id="text4287"
        y="844.76013"
        x="125.94779"
-       style="font-size:13.34046555px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Noto Sans T Chinese;-inkscape-font-specification:Noto Sans T Chinese"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.5px;line-height:125%;font-family:'Noto Sans CJK TC';-inkscape-font-specification:'Noto Sans CJK TC';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;fill:#000000;fill-opacity:1;stroke:none;"
        xml:space="preserve"><tspan
          id="tspan4289"
          y="844.76013"
@@ -1677,7 +1621,7 @@ You are able to remove license logo and author's name from the image if you keep
          sodipodi:role="line">土城</tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:13.34046555px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Noto Sans T Chinese;-inkscape-font-specification:Noto Sans T Chinese"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.75px;line-height:125%;font-family:'Noto Sans CJK TC';-inkscape-font-specification:'Noto Sans CJK TC';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;fill:#000000;fill-opacity:1;stroke:none;"
        x="97.094536"
        y="928.76013"
        id="text4291"
@@ -1691,7 +1635,7 @@ You are able to remove license logo and author's name from the image if you keep
        id="text4297"
        y="299.02969"
        x="97.59153"
-       style="font-size:13.34046555px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Noto Sans T Chinese;-inkscape-font-specification:Noto Sans T Chinese"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.75px;line-height:125%;font-family:'Noto Sans CJK TC';-inkscape-font-specification:'Noto Sans CJK TC';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;fill:#000000;fill-opacity:1;stroke:none;"
        xml:space="preserve"><tspan
          id="tspan4299"
          y="299.02969"
@@ -1699,7 +1643,7 @@ You are able to remove license logo and author's name from the image if you keep
          sodipodi:role="line">蘆洲</tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:13.34046555px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Noto Sans T Chinese;-inkscape-font-specification:Noto Sans T Chinese"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.5px;line-height:125%;font-family:'Noto Sans CJK TC';-inkscape-font-specification:'Noto Sans CJK TC';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;fill:#000000;fill-opacity:1;stroke:none;"
        x="174.42374"
        y="334.86673"
        id="text4301"
@@ -1713,7 +1657,7 @@ You are able to remove license logo and author's name from the image if you keep
        id="text4305"
        y="362.74542"
        x="207.22478"
-       style="font-size:13.34046555px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Noto Sans T Chinese;-inkscape-font-specification:Noto Sans T Chinese"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.5px;line-height:125%;font-family:'Noto Sans CJK TC';-inkscape-font-specification:'Noto Sans CJK TC';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;fill:#000000;fill-opacity:1;stroke:none;"
        xml:space="preserve"><tspan
          id="tspan4307"
          y="362.74542"
@@ -1721,7 +1665,7 @@ You are able to remove license logo and author's name from the image if you keep
          sodipodi:role="line">徐匯中學</tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:13.34046555px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Noto Sans T Chinese;-inkscape-font-specification:Noto Sans T Chinese"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.5px;line-height:125%;font-family:'Noto Sans CJK TC';-inkscape-font-specification:'Noto Sans CJK TC';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;fill:#000000;fill-opacity:1;stroke:none;"
        x="254.71658"
        y="393.2099"
        id="text4309"
@@ -1735,7 +1679,7 @@ You are able to remove license logo and author's name from the image if you keep
        id="text4313"
        y="419.84592"
        x="288.42303"
-       style="font-size:13.34046555px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Noto Sans T Chinese;-inkscape-font-specification:Noto Sans T Chinese"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.5px;line-height:125%;font-family:'Noto Sans CJK TC';-inkscape-font-specification:'Noto Sans CJK TC';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;fill:#000000;fill-opacity:1;stroke:none;"
        xml:space="preserve"><tspan
          id="tspan4315"
          y="419.84592"
@@ -1743,7 +1687,7 @@ You are able to remove license logo and author's name from the image if you keep
          sodipodi:role="line">三重國小</tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:13.34046555px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Noto Sans T Chinese;-inkscape-font-specification:Noto Sans T Chinese"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.75px;line-height:125%;font-family:'Noto Sans CJK TC';-inkscape-font-specification:'Noto Sans CJK TC';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;fill:#000000;fill-opacity:1;stroke:none;"
        x="317.98361"
        y="444.08853"
        id="text4317"
@@ -1757,7 +1701,7 @@ You are able to remove license logo and author's name from the image if you keep
        id="text4321"
        y="499.9231"
        x="299.9039"
-       style="font-size:13.34046555px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Noto Sans T Chinese;-inkscape-font-specification:Noto Sans T Chinese"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.5px;line-height:125%;font-family:'Noto Sans CJK TC';-inkscape-font-specification:'Noto Sans CJK TC';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;fill:#000000;fill-opacity:1;stroke:none;"
        xml:space="preserve"><tspan
          id="tspan4323"
          y="499.9231"
@@ -1765,7 +1709,7 @@ You are able to remove license logo and author's name from the image if you keep
          sodipodi:role="line">台北橋</tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:13.34046555px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Noto Sans T Chinese;-inkscape-font-specification:Noto Sans T Chinese"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.5px;line-height:125%;font-family:'Noto Sans CJK TC';-inkscape-font-specification:'Noto Sans CJK TC';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;fill:#000000;fill-opacity:1;stroke:none;"
        x="255.87294"
        y="522.25153"
        id="text4325"
@@ -1779,7 +1723,7 @@ You are able to remove license logo and author's name from the image if you keep
        id="text4329"
        y="539.25153"
        x="218.84984"
-       style="font-size:13.34046555px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Noto Sans T Chinese;-inkscape-font-specification:Noto Sans T Chinese"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.5px;line-height:125%;font-family:'Noto Sans CJK TC';-inkscape-font-specification:'Noto Sans CJK TC';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;fill:#000000;fill-opacity:1;stroke:none;"
        xml:space="preserve"><tspan
          id="tspan4331"
          y="539.25153"
@@ -1787,7 +1731,7 @@ You are able to remove license logo and author's name from the image if you keep
          sodipodi:role="line">三重</tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:13.34046555px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Noto Sans T Chinese;-inkscape-font-specification:Noto Sans T Chinese"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.5px;line-height:125%;font-family:'Noto Sans CJK TC';-inkscape-font-specification:'Noto Sans CJK TC';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;fill:#000000;fill-opacity:1;stroke:none;"
        x="185.54892"
        y="557.90839"
        id="text4333"
@@ -1801,7 +1745,7 @@ You are able to remove license logo and author's name from the image if you keep
        id="text4337"
        y="580.23676"
        x="139.85033"
-       style="font-size:13.34046555px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Noto Sans T Chinese;-inkscape-font-specification:Noto Sans T Chinese"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.5px;line-height:125%;font-family:'Noto Sans CJK TC';-inkscape-font-specification:'Noto Sans CJK TC';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;fill:#000000;fill-opacity:1;stroke:none;"
        xml:space="preserve"><tspan
          id="tspan4339"
          y="580.23676"
@@ -1809,7 +1753,7 @@ You are able to remove license logo and author's name from the image if you keep
          sodipodi:role="line">頭前庄</tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:13.34046555px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Noto Sans T Chinese;-inkscape-font-specification:Noto Sans T Chinese"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.5px;line-height:125%;font-family:'Noto Sans CJK TC';-inkscape-font-specification:'Noto Sans CJK TC';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;fill:#000000;fill-opacity:1;stroke:none;"
        x="95.476555"
        y="599.88324"
        id="text4341"
@@ -1823,7 +1767,7 @@ You are able to remove license logo and author's name from the image if you keep
        id="text4345"
        y="618.07141"
        x="66.699547"
-       style="font-size:13.34046555px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Noto Sans T Chinese;-inkscape-font-specification:Noto Sans T Chinese"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.5px;line-height:125%;font-family:'Noto Sans CJK TC';-inkscape-font-specification:'Noto Sans CJK TC';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;fill:#000000;fill-opacity:1;stroke:none;"
        xml:space="preserve"><tspan
          id="tspan4347"
          y="618.07141"
@@ -1831,7 +1775,7 @@ You are able to remove license logo and author's name from the image if you keep
          sodipodi:role="line">輔大</tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:13.34046555px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Noto Sans T Chinese;-inkscape-font-specification:Noto Sans T Chinese"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.5px;line-height:125%;font-family:'Noto Sans CJK TC';-inkscape-font-specification:'Noto Sans CJK TC';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;fill:#000000;fill-opacity:1;stroke:none;"
        x="484.01315"
        y="495.72461"
        id="text4349"
@@ -1845,7 +1789,7 @@ You are able to remove license logo and author's name from the image if you keep
        id="text4353"
        y="532.72461"
        x="477.40256"
-       style="font-size:13.34046555px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Noto Sans T Chinese;-inkscape-font-specification:Noto Sans T Chinese"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.5px;line-height:125%;font-family:'Noto Sans CJK TC';-inkscape-font-specification:'Noto Sans CJK TC';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;fill:#000000;fill-opacity:1;stroke:none;"
        xml:space="preserve"><tspan
          id="tspan4355"
          y="532.72461"
@@ -1853,7 +1797,7 @@ You are able to remove license logo and author's name from the image if you keep
          sodipodi:role="line">松江南京</tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:13.34046555px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Noto Sans T Chinese;-inkscape-font-specification:Noto Sans T Chinese"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.75px;line-height:125%;font-family:'Noto Sans CJK TC';-inkscape-font-specification:'Noto Sans CJK TC';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;fill:#000000;fill-opacity:1;stroke:none;"
        x="488.95172"
        y="687.9903"
        id="text4357"
@@ -1867,7 +1811,7 @@ You are able to remove license logo and author's name from the image if you keep
        id="text4361"
        y="798.00989"
        x="375.17755"
-       style="font-size:13.34046555px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Noto Sans T Chinese;-inkscape-font-specification:Noto Sans T Chinese"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.5px;line-height:125%;font-family:'Noto Sans CJK TC';-inkscape-font-specification:'Noto Sans CJK TC';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;fill:#000000;fill-opacity:1;stroke:none;"
        xml:space="preserve"><tspan
          id="tspan4363"
          y="798.00989"
@@ -1875,7 +1819,7 @@ You are able to remove license logo and author's name from the image if you keep
          sodipodi:role="line">頂溪</tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:13.34046555px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Noto Sans T Chinese;-inkscape-font-specification:Noto Sans T Chinese"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.5px;line-height:125%;font-family:'Noto Sans CJK TC';-inkscape-font-specification:'Noto Sans CJK TC';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;fill:#000000;fill-opacity:1;stroke:none;"
        x="300.51395"
        y="856.00378"
        id="text4365"
@@ -1889,7 +1833,7 @@ You are able to remove license logo and author's name from the image if you keep
        id="text4369"
        y="907.00378"
        x="313.8544"
-       style="font-size:13.34046555px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Noto Sans T Chinese;-inkscape-font-specification:Noto Sans T Chinese"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.5px;line-height:125%;font-family:'Noto Sans CJK TC';-inkscape-font-specification:'Noto Sans CJK TC';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;fill:#000000;fill-opacity:1;stroke:none;"
        xml:space="preserve"><tspan
          id="tspan4371"
          y="907.00378"
@@ -1897,7 +1841,7 @@ You are able to remove license logo and author's name from the image if you keep
          sodipodi:role="line">景安</tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:13.34046555px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Noto Sans T Chinese;-inkscape-font-specification:Noto Sans T Chinese"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.75px;line-height:125%;font-family:'Noto Sans CJK TC';-inkscape-font-specification:'Noto Sans CJK TC';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;fill:#000000;fill-opacity:1;stroke:none;"
        x="342.90457"
        y="997.00378"
        id="text4373"
@@ -1908,27 +1852,27 @@ You are able to remove license logo and author's name from the image if you keep
          id="tspan4375">南勢角</tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:13.34046555px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Noto Sans T Chinese;-inkscape-font-specification:Noto Sans T Chinese"
-       x="934.20978"
-       y="394.26013"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.5px;line-height:125%;font-family:'Noto Sans CJK TC';-inkscape-font-specification:'Noto Sans CJK TC';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;fill:#000000;fill-opacity:1;stroke:none;"
+       x="937.00647"
+       y="402.18405"
        id="text4377"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
-         x="934.20978"
-         y="394.26013"
+         x="937.00647"
+         y="402.18405"
          id="tspan4379"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;text-anchor:middle;font-family:Noto Sans T Chinese;-inkscape-font-specification:Noto Sans T Chinese">南港</tspan><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Noto Sans CJK TC';-inkscape-font-specification:'Noto Sans CJK TC';text-align:center;text-anchor:middle;font-size:12.5px;">南港</tspan><tspan
          sodipodi:role="line"
-         x="934.20978"
-         y="410.9357"
+         x="937.00647"
+         y="418.85962"
          id="tspan4481"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;text-anchor:middle;font-family:Noto Sans T Chinese;-inkscape-font-specification:Noto Sans T Chinese">軟體園區</tspan></text>
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Noto Sans CJK TC';-inkscape-font-specification:'Noto Sans CJK TC';text-align:center;text-anchor:middle;font-size:12.5px;">軟體園區</tspan></text>
     <text
        sodipodi:linespacing="125%"
        id="text4381"
        y="337.26013"
        x="949.52325"
-       style="font-size:13.34046555px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Noto Sans T Chinese;-inkscape-font-specification:Noto Sans T Chinese"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.5px;line-height:125%;font-family:'Noto Sans CJK TC';-inkscape-font-specification:'Noto Sans CJK TC';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;fill:#000000;fill-opacity:1;stroke:none;"
        xml:space="preserve"><tspan
          id="tspan4383"
          y="337.26013"
@@ -1936,7 +1880,7 @@ You are able to remove license logo and author's name from the image if you keep
          sodipodi:role="line">東湖</tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:13.34046555px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Noto Sans T Chinese;-inkscape-font-specification:Noto Sans T Chinese"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.5px;line-height:125%;font-family:'Noto Sans CJK TC';-inkscape-font-specification:'Noto Sans CJK TC';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;fill:#000000;fill-opacity:1;stroke:none;"
        x="928.52991"
        y="281.26013"
        id="text4385"
@@ -1950,7 +1894,7 @@ You are able to remove license logo and author's name from the image if you keep
        id="text4389"
        y="233.26012"
        x="891.87036"
-       style="font-size:13.34046555px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Noto Sans T Chinese;-inkscape-font-specification:Noto Sans T Chinese"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.5px;line-height:125%;font-family:'Noto Sans CJK TC';-inkscape-font-specification:'Noto Sans CJK TC';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;fill:#000000;fill-opacity:1;stroke:none;"
        xml:space="preserve"><tspan
          id="tspan4391"
          y="233.26012"
@@ -1958,7 +1902,7 @@ You are able to remove license logo and author's name from the image if you keep
          sodipodi:role="line">大湖公園</tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:13.34046555px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Noto Sans T Chinese;-inkscape-font-specification:Noto Sans T Chinese"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.5px;line-height:125%;font-family:'Noto Sans CJK TC';-inkscape-font-specification:'Noto Sans CJK TC';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;fill:#000000;fill-opacity:1;stroke:none;"
        x="869.00293"
        y="164.21342"
        id="text4393"
@@ -1972,7 +1916,7 @@ You are able to remove license logo and author's name from the image if you keep
        id="text4397"
        y="164.26012"
        x="799.78339"
-       style="font-size:13.34046555px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Noto Sans T Chinese;-inkscape-font-specification:Noto Sans T Chinese"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.5px;line-height:125%;font-family:'Noto Sans CJK TC';-inkscape-font-specification:'Noto Sans CJK TC';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;fill:#000000;fill-opacity:1;stroke:none"
        xml:space="preserve"><tspan
          id="tspan4399"
          y="164.26012"
@@ -1980,7 +1924,7 @@ You are able to remove license logo and author's name from the image if you keep
          sodipodi:role="line">文德</tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:13.34046555px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Noto Sans T Chinese;-inkscape-font-specification:Noto Sans T Chinese"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.5px;line-height:125%;font-family:'Noto Sans CJK TC';-inkscape-font-specification:'Noto Sans CJK TC';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;fill:#000000;fill-opacity:1;stroke:none"
        x="726.83673"
        y="164.26012"
        id="text4401"
@@ -1994,7 +1938,7 @@ You are able to remove license logo and author's name from the image if you keep
        id="text4405"
        y="164.21342"
        x="654.54993"
-       style="font-size:13.34046555px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Noto Sans T Chinese;-inkscape-font-specification:Noto Sans T Chinese"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.5px;line-height:125%;font-family:'Noto Sans CJK TC';-inkscape-font-specification:'Noto Sans CJK TC';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;fill:#000000;fill-opacity:1;stroke:none"
        xml:space="preserve"><tspan
          id="tspan4407"
          y="164.21342"
@@ -2002,7 +1946,7 @@ You are able to remove license logo and author's name from the image if you keep
          sodipodi:role="line">西湖</tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:13.34046555px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Noto Sans T Chinese;-inkscape-font-specification:Noto Sans T Chinese"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.5px;line-height:125%;font-family:'Noto Sans CJK TC';-inkscape-font-specification:'Noto Sans CJK TC';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;fill:#000000;fill-opacity:1;stroke:none"
        x="585.56036"
        y="164.26012"
        id="text4409"
@@ -2016,7 +1960,7 @@ You are able to remove license logo and author's name from the image if you keep
        id="text4413"
        y="247.26012"
        x="595.69"
-       style="font-size:13.34046555px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Noto Sans T Chinese;-inkscape-font-specification:Noto Sans T Chinese"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.5px;line-height:125%;font-family:'Noto Sans CJK TC';-inkscape-font-specification:'Noto Sans CJK TC';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;fill:#000000;fill-opacity:1;stroke:none"
        xml:space="preserve"><tspan
          id="tspan4415"
          y="247.26012"
@@ -2024,7 +1968,7 @@ You are able to remove license logo and author's name from the image if you keep
          sodipodi:role="line">大直</tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:13.34046555px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Noto Sans T Chinese;-inkscape-font-specification:Noto Sans T Chinese"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.5px;line-height:125%;font-family:'Noto Sans CJK TC';-inkscape-font-specification:'Noto Sans CJK TC';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;fill:#000000;fill-opacity:1;stroke:none"
        x="668.12384"
        y="337.26013"
        id="text4417"
@@ -2038,7 +1982,7 @@ You are able to remove license logo and author's name from the image if you keep
        id="text4421"
        y="433.26013"
        x="650.78833"
-       style="font-size:13.34046555px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Noto Sans T Chinese;-inkscape-font-specification:Noto Sans T Chinese"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.5px;line-height:125%;font-family:'Noto Sans CJK TC';-inkscape-font-specification:'Noto Sans CJK TC';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;fill:#000000;fill-opacity:1;stroke:none"
        xml:space="preserve"><tspan
          id="tspan4423"
          y="433.26013"
@@ -2046,7 +1990,7 @@ You are able to remove license logo and author's name from the image if you keep
          sodipodi:role="line">中山國中</tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:13.34046555px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Noto Sans T Chinese;-inkscape-font-specification:Noto Sans T Chinese"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.5px;line-height:125%;font-family:'Noto Sans CJK TC';-inkscape-font-specification:'Noto Sans CJK TC';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;fill:#000000;fill-opacity:1;stroke:none"
        x="651.46869"
        y="505.26013"
        id="text4425"
@@ -2060,7 +2004,7 @@ You are able to remove license logo and author's name from the image if you keep
        id="text4429"
        y="683.7605"
        x="637.51862"
-       style="font-size:13.34046555px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Noto Sans T Chinese;-inkscape-font-specification:Noto Sans T Chinese"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.75px;line-height:125%;font-family:'Noto Sans CJK TC';-inkscape-font-specification:'Noto Sans CJK TC';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;fill:#000000;fill-opacity:1;stroke:none;"
        xml:space="preserve"><tspan
          id="tspan4431"
          y="683.7605"
@@ -2068,21 +2012,21 @@ You are able to remove license logo and author's name from the image if you keep
          sodipodi:role="line">大安</tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:13.34046555px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Noto Sans T Chinese;-inkscape-font-specification:Noto Sans T Chinese"
-       x="575.3476"
-       y="759.76422"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.5px;line-height:125%;font-family:'Noto Sans CJK TC';-inkscape-font-specification:'Noto Sans CJK TC';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;fill:#000000;fill-opacity:1;stroke:none"
+       x="577.46893"
+       y="761.88556"
        id="text4433"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
-         x="575.3476"
-         y="759.76422"
+         x="577.46893"
+         y="761.88556"
          id="tspan4435">科技大樓</tspan></text>
     <text
        sodipodi:linespacing="125%"
        id="text4437"
        y="807.85199"
        x="679.84753"
-       style="font-size:13.34046555px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Noto Sans T Chinese;-inkscape-font-specification:Noto Sans T Chinese"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.5px;line-height:125%;font-family:'Noto Sans CJK TC';-inkscape-font-specification:'Noto Sans CJK TC';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;fill:#000000;fill-opacity:1;stroke:none"
        xml:space="preserve"><tspan
          id="tspan4439"
          y="807.85199"
@@ -2090,7 +2034,7 @@ You are able to remove license logo and author's name from the image if you keep
          sodipodi:role="line">六張犁</tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:13.34046555px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Noto Sans T Chinese;-inkscape-font-specification:Noto Sans T Chinese"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.5px;line-height:125%;font-family:'Noto Sans CJK TC';-inkscape-font-specification:'Noto Sans CJK TC';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;fill:#000000;fill-opacity:1;stroke:none"
        x="753.28406"
        y="813.85199"
        id="text4441"
@@ -2104,7 +2048,7 @@ You are able to remove license logo and author's name from the image if you keep
        id="text4445"
        y="848.85199"
        x="753.28406"
-       style="font-size:13.34046555px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Noto Sans T Chinese;-inkscape-font-specification:Noto Sans T Chinese"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.5px;line-height:125%;font-family:'Noto Sans CJK TC';-inkscape-font-specification:'Noto Sans CJK TC';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;fill:#000000;fill-opacity:1;stroke:none"
        xml:space="preserve"><tspan
          id="tspan4447"
          y="848.85199"
@@ -2112,21 +2056,21 @@ You are able to remove license logo and author's name from the image if you keep
          sodipodi:role="line">辛亥</tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:13.34046555px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Noto Sans T Chinese;-inkscape-font-specification:Noto Sans T Chinese"
-       x="713.81964"
-       y="909.83197"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.5px;line-height:125%;font-family:'Noto Sans CJK TC';-inkscape-font-specification:'Noto Sans CJK TC';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;fill:#000000;fill-opacity:1;stroke:none"
+       x="724.42627"
+       y="909.12488"
        id="text4449"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
-         x="713.81964"
-         y="909.83197"
+         x="724.42627"
+         y="909.12488"
          id="tspan4451">萬芳醫院</tspan></text>
     <text
        sodipodi:linespacing="125%"
        id="text4453"
        y="872.87201"
        x="790.52448"
-       style="font-size:13.34046555px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Noto Sans T Chinese;-inkscape-font-specification:Noto Sans T Chinese"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.5px;line-height:125%;font-family:'Noto Sans CJK TC';-inkscape-font-specification:'Noto Sans CJK TC';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;fill:#000000;fill-opacity:1;stroke:none"
        xml:space="preserve"><tspan
          id="tspan4455"
          y="872.87201"
@@ -2134,7 +2078,7 @@ You are able to remove license logo and author's name from the image if you keep
          sodipodi:role="line">萬芳社區</tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:13.34046555px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Noto Sans T Chinese;-inkscape-font-specification:Noto Sans T Chinese"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.5px;line-height:125%;font-family:'Noto Sans CJK TC';-inkscape-font-specification:'Noto Sans CJK TC';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;fill:#000000;fill-opacity:1;stroke:none"
        x="842.30408"
        y="872.85199"
        id="text4457"
@@ -2148,7 +2092,7 @@ You are able to remove license logo and author's name from the image if you keep
        id="text4461"
        y="889.85199"
        x="938.79419"
-       style="font-size:13.34046555px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Noto Sans T Chinese;-inkscape-font-specification:Noto Sans T Chinese"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.75px;line-height:125%;font-family:'Noto Sans CJK TC';-inkscape-font-specification:'Noto Sans CJK TC';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;fill:#000000;fill-opacity:1;stroke:none;"
        xml:space="preserve"><tspan
          id="tspan4463"
          y="889.85199"
@@ -2156,51 +2100,51 @@ You are able to remove license logo and author's name from the image if you keep
          sodipodi:role="line">動物園</tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:13.34046555px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Noto Sans T Chinese;-inkscape-font-specification:Noto Sans T Chinese"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.5px;line-height:125%;font-family:'Noto Sans CJK TC';-inkscape-font-specification:'Noto Sans CJK TC';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;fill:#000000;fill-opacity:1;stroke:none"
        x="872.64325"
-       y="918.20996"
+       y="924.57391"
        id="text4465"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          x="872.64325"
-         y="918.20996"
+         y="924.57391"
          id="tspan4467">動物園站</tspan></text>
     <text
        sodipodi:linespacing="125%"
        id="text4469"
-       y="957.20996"
+       y="963.57391"
        x="891.38452"
-       style="font-size:13.34046555px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Noto Sans T Chinese;-inkscape-font-specification:Noto Sans T Chinese"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.5px;line-height:125%;font-family:'Noto Sans CJK TC';-inkscape-font-specification:'Noto Sans CJK TC';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;fill:#000000;fill-opacity:1;stroke:none"
        xml:space="preserve"><tspan
          id="tspan4471"
-         y="957.20996"
+         y="963.57391"
          x="891.38452"
          sodipodi:role="line">動物園內站</tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:13.34046555px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Noto Sans T Chinese;-inkscape-font-specification:Noto Sans T Chinese"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.5px;line-height:125%;font-family:'Noto Sans CJK TC';-inkscape-font-specification:'Noto Sans CJK TC';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;fill:#000000;fill-opacity:1;stroke:none"
        x="892.14984"
-       y="998.21008"
+       y="1004.574"
        id="text4473"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          x="892.14984"
-         y="998.21008"
+         y="1004.574"
          id="tspan4475">指南宮站</tspan></text>
     <text
        sodipodi:linespacing="125%"
        id="text4477"
-       y="1029.21"
+       y="1035.574"
        x="863.65656"
-       style="font-size:13.34046555px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Noto Sans T Chinese;-inkscape-font-specification:Noto Sans T Chinese"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.5px;line-height:125%;font-family:'Noto Sans CJK TC';-inkscape-font-specification:'Noto Sans CJK TC';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;fill:#000000;fill-opacity:1;stroke:none"
        xml:space="preserve"><tspan
          id="tspan4479"
-         y="1029.21"
+         y="1035.574"
          x="863.65656"
          sodipodi:role="line">貓空站</tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:13.34046555px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Noto Sans T Chinese;-inkscape-font-specification:Noto Sans T Chinese"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.5px;line-height:125%;font-family:'Noto Sans CJK TC';-inkscape-font-specification:'Noto Sans CJK TC';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;fill:#000000;fill-opacity:1;stroke:none;"
        x="279.16498"
        y="680.26013"
        id="text4483"
@@ -2212,16 +2156,13 @@ You are able to remove license logo and author's name from the image if you keep
     <g
        id="g4504"
        transform="matrix(0.79631174,0,0,0.79631174,129.82765,-2.9918287)">
-      <path
+      <circle
          transform="matrix(0.52754855,0,0,0.52754855,184.9056,64.395918)"
-         d="m 577.5,53.577026 a 46.5,46.5 0 1 1 -93,0 46.5,46.5 0 1 1 93,0 z"
-         sodipodi:ry="46.5"
-         sodipodi:rx="46.5"
-         sodipodi:cy="53.577026"
-         sodipodi:cx="531"
          id="path4498"
-         style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
-         sodipodi:type="arc" />
+         style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         cx="531"
+         cy="53.577026"
+         r="46.5" />
       <path
          sodipodi:nodetypes="cccc"
          inkscape:connector-curvature="0"
@@ -2234,7 +2175,7 @@ You are able to remove license logo and author's name from the image if you keep
          id="text4500"
          y="58.964176"
          x="457.85388"
-         style="font-size:20px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:'儷黑 Pro';-inkscape-font-specification:'儷黑 Pro'"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:20px;line-height:125%;font-family:'Serto Batnan';-inkscape-font-specification:'Serto Batnan';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;"
          xml:space="preserve"><tspan
            y="58.964176"
            x="457.85388"
@@ -2341,15 +2282,10 @@ You are able to remove license logo and author's name from the image if you keep
            id="g313">
           <circle
              style="fill:#ffffff"
-             sodipodi:ry="10.8064"
-             sodipodi:rx="10.8064"
-             sodipodi:cy="90.224609"
-             sodipodi:cx="242.56226"
              id="circle315"
              r="10.8064"
              cy="90.224609"
-             cx="242.56226"
-             d="m 253.36866,90.224609 c 0,5.96821 -4.83819,10.806401 -10.8064,10.806401 -5.96821,0 -10.8064,-4.838191 -10.8064,-10.806401 0,-5.96821 4.83819,-10.8064 10.8064,-10.8064 5.96821,0 10.8064,4.83819 10.8064,10.8064 z" />
+             cx="242.56226" />
           <g
              id="g317">
             <path
@@ -2357,28 +2293,22 @@ You are able to remove license logo and author's name from the image if you keep
                d="m 245.68994,87.09766 c 0,-0.4165 -0.33789,-0.75342 -0.75391,-0.75342 l -4.77246,0 c -0.41602,0 -0.75391,0.33691 -0.75391,0.75342 l 0,4.77295 1.33105,0 0,5.65234 3.61719,0 0,-5.65234 1.33203,0 0,-4.77295 1e-5,0 z"
                inkscape:connector-curvature="0" />
             <circle
-               sodipodi:ry="1.63232"
-               sodipodi:rx="1.63232"
-               sodipodi:cy="84.083008"
-               sodipodi:cx="242.5498"
                id="circle321"
                r="1.63232"
                cy="84.083008"
-               cx="242.5498"
-               d="m 244.18212,84.083008 c 0,0.901505 -0.73081,1.63232 -1.63232,1.63232 -0.9015,0 -1.63232,-0.730815 -1.63232,-1.63232 0,-0.901506 0.73082,-1.63232 1.63232,-1.63232 0.90151,0 1.63232,0.730814 1.63232,1.63232 z" />
+               cx="242.5498" />
           </g>
           <path
-             style="fill-rule:evenodd"
+             style="clip-rule:evenodd;fill-rule:evenodd"
              id="path323"
              d="m 242.53467,78.31836 c -3.23145,0 -5.96826,1.12744 -8.20752,3.38379 -2.29785,2.33301 -3.44629,5.09521 -3.44629,8.28418 0,3.18897 1.14844,5.93213 3.44629,8.22705 2.29785,2.29443 5.03418,3.44189 8.20752,3.44189 3.21289,0 5.99805,-1.15674 8.35352,-3.47168 2.2207,-2.19678 3.33008,-4.92969 3.33008,-8.19727 0,-3.26758 -1.12891,-6.02881 -3.3877,-8.28418 -2.25879,-2.25634 -5.02442,-3.38378 -8.2959,-3.38378 z m 0.0293,2.09961 c 2.64844,0 4.89746,0.93359 6.74707,2.80078 1.87012,1.84717 2.80469,4.10352 2.80469,6.76758 0,2.68359 -0.91504,4.91113 -2.74609,6.68066 -1.92773,1.90576 -4.19629,2.8584 -6.80566,2.8584 -2.60937,0 -4.8584,-0.94287 -6.74658,-2.82959 -1.88965,-1.88623 -2.8335,-4.12256 -2.8335,-6.70947 0,-2.58643 0.9541,-4.84229 2.8623,-6.76758 1.83057,-1.86719 4.07031,-2.80078 6.71777,-2.80078 z"
-             clip-rule="evenodd"
              inkscape:connector-curvature="0" />
         </g>
       </g>
     </g>
     <text
        xml:space="preserve"
-       style="font-size:6.6138401px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Noto Sans T Chinese;-inkscape-font-specification:Noto Sans T Chinese"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.6138401px;line-height:125%;font-family:'Noto Sans CJK TC';-inkscape-font-specification:'Noto Sans CJK TC';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
        x="-54.195511"
        y="1090.2621"
        id="text5239"
@@ -2389,19 +2319,19 @@ You are able to remove license logo and author's name from the image if you keep
          y="1090.2621">created by walkingice</tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:20px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#babdb6;fill-opacity:1;stroke:none;font-family:Noto Sans T Chinese;-inkscape-font-specification:Noto Sans T Chinese"
-       x="775.79761"
-       y="984.35626"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:20px;line-height:125%;font-family:'Noto Sans CJK TC';-inkscape-font-specification:'Noto Sans CJK TC';letter-spacing:0px;word-spacing:0px;fill:#babdb6;fill-opacity:1;stroke:none"
+       x="774.79761"
+       y="996.72021"
        id="text5243"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          id="tspan5245"
-         x="775.79761"
-         y="984.35626"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#babdb6;font-family:Noto Sans T Chinese;-inkscape-font-specification:Noto Sans T Chinese">貓空纜車</tspan></text>
+         x="774.79761"
+         y="996.72021"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Noto Sans CJK TC';-inkscape-font-specification:'Noto Sans CJK TC';fill:#babdb6">貓空纜車</tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:13.34046555px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Noto Sans T Chinese;-inkscape-font-specification:Noto Sans T Chinese"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.5px;line-height:125%;font-family:'Noto Sans CJK TC';-inkscape-font-specification:'Noto Sans CJK TC';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;fill:#000000;fill-opacity:1;stroke:none"
        x="561.84198"
        y="678.12457"
        id="text4118"
@@ -2416,7 +2346,7 @@ You are able to remove license logo and author's name from the image if you keep
          id="tspan4122">森林公園</tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:13.34046555px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Noto Sans T Chinese;-inkscape-font-specification:Noto Sans T Chinese"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.5px;line-height:125%;font-family:'Noto Sans CJK TC';-inkscape-font-specification:'Noto Sans CJK TC';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;fill:#000000;fill-opacity:1;stroke:none"
        x="693.68494"
        y="683.84052"
        id="text4130"
@@ -2430,7 +2360,7 @@ You are able to remove license logo and author's name from the image if you keep
        id="text4134"
        y="736.42249"
        x="759.31079"
-       style="font-size:13.34046555px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Noto Sans T Chinese;-inkscape-font-specification:Noto Sans T Chinese"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.5px;line-height:125%;font-family:'Noto Sans CJK TC';-inkscape-font-specification:'Noto Sans CJK TC';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;fill:#000000;fill-opacity:1;stroke:none"
        xml:space="preserve"><tspan
          id="tspan4136"
          y="736.42249"
@@ -2438,7 +2368,7 @@ You are able to remove license logo and author's name from the image if you keep
          sodipodi:role="line">台北 101/世貿</tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:13.34046555px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Noto Sans T Chinese;-inkscape-font-specification:Noto Sans T Chinese"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.5px;line-height:125%;font-family:'Noto Sans CJK TC';-inkscape-font-specification:'Noto Sans CJK TC';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;fill:#000000;fill-opacity:1;stroke:none"
        x="837.39441"
        y="683.83386"
        id="text4138"
@@ -2449,12 +2379,12 @@ You are able to remove license logo and author's name from the image if you keep
          id="tspan4140">象山</tspan></text>
     <path
        id="path4194"
-       d="m 721.66085,324.89319 c 0.30052,-0.90156 0.24415,-1.5965 -0.16929,-2.08497 -0.4883,-0.41327 -1.18341,-0.46947 -2.08516,-0.16946 -0.90173,0.30052 -1.70941,0.80767 -2.4232,1.52146 l -2.25409,2.25409 -9.36808,-2.23991 c -0.15026,-0.047 -0.29118,-0.01 -0.4226,0.11257 l -1.80331,1.8033 c -0.10322,0.10341 -0.14559,0.23015 -0.12675,0.38041 0.0282,0.15043 0.10808,0.263 0.23949,0.33822 l 7.15669,3.93048 -3.6488,3.64881 -2.73307,-0.74646 c -0.0186,-0.01 -0.0562,-0.0142 -0.11256,-0.0142 -0.13159,0 -0.23949,0.0422 -0.32404,0.12675 l -1.35235,1.36653 c -0.0939,0.11239 -0.13609,0.22997 -0.12675,0.35188 0.0187,0.15026 0.0797,0.25833 0.18311,0.32421 l 3.55008,2.66234 2.66252,3.55008 c 0.0846,0.1034 0.19729,0.16427 0.33821,0.18329 h 0.0281 c 0.13159,0 0.23949,-0.0422 0.32405,-0.12658 l 1.35235,-1.35235 c 0.12208,-0.13158 0.15959,-0.27718 0.11274,-0.43678 l -0.74664,-2.73306 3.64881,-3.64898 3.93048,7.15687 c 0.0562,0.12207 0.15493,0.19729 0.29586,0.22547 0.028,0.01 0.061,0.014 0.0986,0.014 0.11256,0 0.20178,-0.0282 0.26749,-0.0844 l 1.80366,-1.35236 c 0.15943,-0.13142 0.21579,-0.28634 0.16894,-0.46479 l -2.25393,-9.80503 2.26811,-2.2681 c 0.71361,-0.71396 1.22076,-1.52181 1.52129,-2.42338 z"
+       d="m 721.66085,324.89319 c 0.30052,-0.90156 0.24415,-1.5965 -0.16929,-2.08497 -0.4883,-0.41327 -1.18341,-0.46947 -2.08516,-0.16946 -0.90173,0.30052 -1.70941,0.80767 -2.4232,1.52146 l -2.25409,2.25409 -9.36808,-2.23991 c -0.15026,-0.047 -0.29118,-0.01 -0.4226,0.11257 l -1.80331,1.8033 c -0.10322,0.10341 -0.14559,0.23015 -0.12675,0.38041 0.0282,0.15043 0.10808,0.263 0.23949,0.33822 l 7.15669,3.93048 -3.6488,3.64881 -2.73307,-0.74646 c -0.0186,-0.01 -0.0562,-0.0142 -0.11256,-0.0142 -0.13159,0 -0.23949,0.0422 -0.32404,0.12675 l -1.35235,1.36653 c -0.0939,0.11239 -0.13609,0.22997 -0.12675,0.35188 0.0187,0.15026 0.0797,0.25833 0.18311,0.32421 l 3.55008,2.66234 2.66252,3.55008 c 0.0846,0.1034 0.19729,0.16427 0.33821,0.18329 l 0.0281,0 c 0.13159,0 0.23949,-0.0422 0.32405,-0.12658 l 1.35235,-1.35235 c 0.12208,-0.13158 0.15959,-0.27718 0.11274,-0.43678 l -0.74664,-2.73306 3.64881,-3.64898 3.93048,7.15687 c 0.0562,0.12207 0.15493,0.19729 0.29586,0.22547 0.028,0.01 0.061,0.014 0.0986,0.014 0.11256,0 0.20178,-0.0282 0.26749,-0.0844 l 1.80366,-1.35236 c 0.15943,-0.13142 0.21579,-0.28634 0.16894,-0.46479 l -2.25393,-9.80503 2.26811,-2.2681 c 0.71361,-0.71396 1.22076,-1.52181 1.52129,-2.42338 z"
        inkscape:connector-curvature="0"
        style="fill:#000000" />
     <text
        xml:space="preserve"
-       style="font-size:13.34046555px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Noto Sans T Chinese;-inkscape-font-specification:Noto Sans T Chinese"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.5px;line-height:125%;font-family:'Noto Sans CJK TC';-inkscape-font-specification:'Noto Sans CJK TC';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;fill:#000000;fill-opacity:1;stroke:none;"
        x="31.762791"
        y="637.18774"
        id="text4207"
@@ -2468,7 +2398,7 @@ You are able to remove license logo and author's name from the image if you keep
        id="text4212"
        y="602.91016"
        x="-18.335197"
-       style="font-size:13.34046555px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Noto Sans T Chinese;-inkscape-font-specification:Noto Sans T Chinese"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.75px;line-height:125%;font-family:'Noto Sans CJK TC';-inkscape-font-specification:'Noto Sans CJK TC';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;fill:#000000;fill-opacity:1;stroke:none;"
        xml:space="preserve"><tspan
          id="tspan4214"
          y="602.91016"
