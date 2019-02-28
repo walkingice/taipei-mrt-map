@@ -9,7 +9,7 @@
         }
   ],
   "scope": "tapei-mrt-map",
-  "start_url": "tapei-mrt-map",
+  "start_url": ".",
   "display": "standalone",
   "orientation": "portrait",
   "theme_color"  : "#ff9800",
